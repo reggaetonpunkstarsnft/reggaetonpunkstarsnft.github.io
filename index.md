@@ -11,10 +11,10 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 
 <p float="left">
 <img src="assets/nfts/1.png"
-     width="300">
+     width="100">
      
 <img src="assets/nfts/1.png"
-     width="300">
+     width="100">
  </p>
      
 * ReggaetonPunksStar #2 - [Rosalia](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731284172375851009)
