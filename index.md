@@ -143,7 +143,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/14.png"
      width="200">
      
-<img src="assets/nfts/1414.jpg"
+<img src="assets/nfts/1414.jfif"
      width="200">
  </p> 
 
