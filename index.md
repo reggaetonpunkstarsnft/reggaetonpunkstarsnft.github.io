@@ -129,28 +129,53 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
      
 * ReggaetonPunksStar #13 - [J Balvin Blue](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731302864073523201)
 
+<p float="left">
 <img src="assets/nfts/13.png"
-     width="300">
+     width="200">
+     
+<img src="assets/nfts/1313.jfif"
+     width="200">
+ </p> 
      
 * ReggaetonPunksStar #14 - [J Balvin Green](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731303963585150977)
 
+<p float="left">
 <img src="assets/nfts/14.png"
-     width="300">
+     width="200">
+     
+<img src="assets/nfts/1414.jpg"
+     width="200">
+ </p> 
 
 * ReggaetonPunksStar #15 - [J Balvin Rainbow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731305063096778753)
 
+<p float="left">
 <img src="assets/nfts/15.png"
-     width="300">
+     width="200">
+     
+<img src="assets/nfts/1515.jpg"
+     width="200">
+ </p> 
 
 * ReggaetonPunksStar #16 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731306162608406529)
 
+<p float="left">
 <img src="assets/nfts/16.png"
-     width="300">
+     width="200">
+     
+<img src="assets/nfts/1616.jpg"
+     width="200">
+ </p> 
 
 * ReggaetonPunksStar #17 - [Rauw Alejandro](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731307262120034305)
 
+<p float="left">
 <img src="assets/nfts/17.png"
-     width="300">
+     width="200">
+     
+<img src="assets/nfts/1717.jfif"
+     width="200">
+ </p> 
 
 * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
