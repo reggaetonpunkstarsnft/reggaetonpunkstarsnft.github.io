@@ -1,0 +1,37 @@
+theme: jekyll-theme-minimal
+title: Jennifer J. Gago Muñoz
+layout: default
+plugins:
+    - jekyll-optional-front-matter
+    - jekyll-redirect-from
+include:
+    -README.md
+optional_front_matter:
+  remove_originals: true
+defaults:
+  - scope:
+      path: "*.md"
+    values:
+      layout: default
+tagline: Customer Success Engineer at MathWorks, Former Researcher at UC3M RoboticsLab
+#twitter:
+ #   - username: ...
+#social:
+ # links:
+  #  - https://twitter.com/...
+description: Jennifer J. Gago Muñoz received her MSc in Robotics and Automation and her BEng in Industrial Technologies Engineering from University Carlos III of Madrid, Edinburgh Napier University and Vilnius Gediminas Technical University. She works with universities across Spain to introduce Computational Thinking and Model-Based Design into teaching and research. She has published several research articles on Neural Networks and Sign Language representation by Humanoid Robots. She has previously worked in academia as well as industry, both in the R&D Department, including also an internship in the field of X-Ray mobile equipment and two years as a MATLAB Student Ambassador. </a><p> 
+
+bio: Jennifer J. Gago Muñoz received her MSc in Robotics and Automation and her BEng in Industrial Technologies Engineering from University Carlos III of Madrid, Edinburgh Napier University and Vilnius Gediminas Technical University. She works with universities across Spain to introduce Computational Thinking and Model-Based Design into teaching and research. She has published several research articles on Neural Networks and Sign Language representation by Humanoid Robots. She has previously worked in academia as well as industry, both in the R&D Department, including also an internship in the field of X-Ray mobile equipment and two years as a MATLAB Student Ambassador. </a><p> 
+
+    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+    <span class="sr-only">Mail:</span>&nbsp;&nbsp;<a href="mailto:jennifer.gmunoz@gmail.com">jennifer.gmunoz@gmail.com</a><br>
+    <i class="fa fa-file" aria-hidden="true"></i>
+    <span class="sr-only">CV:</span>&nbsp;&nbsp;<a href="/assets/Jenn_CV.pdf">Download my CV (PDF)</a><br>
+    <i class="fa fa-youtube-play" aria-hidden="true"></i>
+    <span class="sr-only">YouTube:</span>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCP1WOIhEx3kAY7nWfwCCOVw/videos">Robotics YT Channel</a><br>
+    <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+    <span class="sr-only">LinkedIn:</span>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jennifer-gago/">LinkedIn Profile</a><br>
+    <i class="fa fa-github" aria-hidden="true"></i>
+    <span class="sr-only">GitHub:</span>&nbsp;&nbsp;<a href="https://github.com/jgagom">My GitHub</a>
+logo: assets/myfoto.jpg
+logo_title: Jennifer Gago
