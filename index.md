@@ -15,7 +15,22 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/2.png"
      width="300">
      
-* ReggaetonPunksStar #5 - [Becky G]()
+* ReggaetonPunksStar #2 - [Rosalia](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731284172375851009)
+
+<img src="assets/nfts/2.png"
+     width="300"> 
+     
+* ReggaetonPunksStar #3 - [C. Tangana](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731285271887478785)
+
+<img src="assets/nfts/3.png"
+     width="300">     
+
+* ReggaetonPunksStar #4 - [Anuel AA](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731286371399106561)
+
+<img src="assets/nfts/4.png"
+     width="300">
+     
+* ReggaetonPunksStar #5 - [Becky G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731287470910734337)
 
 <img src="assets/nfts/5.png"
      width="300">
@@ -25,9 +40,39 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/6.png"
      width="300">
      
-* ReggaetonPunksStar #12 - [Bad Gyal]()
+* ReggaetonPunksStar #7 - [J Balvin](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731289669933989889)
+
+<img src="assets/nfts/7.png"
+     width="300">
+
+* ReggaetonPunksStar #8 - [Romeo Santos](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731290769445617665)
+
+<img src="assets/nfts/8.png"
+     width="300">
+     
+* ReggaetonPunksStar #9 - [Nathy Peluso](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
+
+<img src="assets/nfts/9.png"
+     width="300">
+
+* ReggaetonPunksStar #10 - [Camilo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731292968468873217)
+
+<img src="assets/nfts/10.png"
+     width="300">
+     
+* ReggaetonPunksStar #11 - [Pitbull](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731294067980500993)
+ 
+ <img src="assets/nfts/11.png"
+     width="300">
+     
+* ReggaetonPunksStar #12 - [Bad Gyal](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731295167492128769)
 
 <img src="assets/nfts/12.png"
+     width="300">
+     
+* ReggaetonPunksStar #13 - [J Balvin Blue](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731302864073523201)
+
+<img src="assets/nfts/13.png"
      width="300">
      
 * ReggaetonPunksStar #14 - [J Balvin Green](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731303963585150977)
