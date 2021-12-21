@@ -16,7 +16,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
 
 <p float="left">
-<img src="assets/nfts/1.png"
+<img src="assets/nfts/1.jfif"
      width="150">
      
 <img src="assets/nfts/11.jfif"
@@ -26,7 +26,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #2 - [Rosalia](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731284172375851009)
 
 <p float="left">
-<img src="assets/nfts/2.png"
+<img src="assets/nfts/2.jfif"
      width="150">
      
 <img src="assets/nfts/22.jfif"
@@ -36,7 +36,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #3 - [C. Tangana](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731285271887478785)
 
 <p float="left">
-<img src="assets/nfts/3.png"
+<img src="assets/nfts/3.jfif"
      width="150">
      
 <img src="assets/nfts/33.jfif"
@@ -46,7 +46,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #4 - [Anuel AA](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731286371399106561)
 
 <p float="left">
-<img src="assets/nfts/4.png"
+<img src="assets/nfts/4.jfif"
      width="150">
      
 <img src="assets/nfts/44.jfif"
@@ -56,7 +56,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #5 - [Becky G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731287470910734337)
 
 <p float="left">
-<img src="assets/nfts/5.png"
+<img src="assets/nfts/5.jfif"
      width="150">
      
 <img src="assets/nfts/55.jfif"
@@ -66,7 +66,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #6 - [Ozuna](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731288570422362113)
 
 <p float="left">
-<img src="assets/nfts/6.png"
+<img src="assets/nfts/6.jfif"
      width="150">
      
 <img src="assets/nfts/66.jfif"
@@ -76,7 +76,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #7 - [J Balvin](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731289669933989889)
 
 <p float="left">
-<img src="assets/nfts/7.png"
+<img src="assets/nfts/7.jfif"
      width="150">
      
 <img src="assets/nfts/77.jfif"
@@ -86,7 +86,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #8 - [Romeo Santos](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731290769445617665)
 
 <p float="left">
-<img src="assets/nfts/8.png"
+<img src="assets/nfts/8.jfif"
      width="150">
      
 <img src="assets/nfts/88.jfif"
@@ -96,7 +96,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #9 - [Nathy Peluso](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
 
 <p float="left">
-<img src="assets/nfts/9.png"
+<img src="assets/nfts/9.jfif"
      width="150">
      
 <img src="assets/nfts/99.jfif"
@@ -106,7 +106,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #10 - [Camilo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731292968468873217)
 
 <p float="left">
-<img src="assets/nfts/10.png"
+<img src="assets/nfts/10.jfif"
      width="150">
      
 <img src="assets/nfts/1010.jfif"
@@ -116,7 +116,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #11 - [Pitbull](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731294067980500993)
  
 <p float="left">
-<img src="assets/nfts/11.png"
+<img src="assets/nfts/11.jfif"
      width="150">
      
 <img src="assets/nfts/1111.jfif"
@@ -126,7 +126,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #12 - [Bad Gyal](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731295167492128769)
 
 <p float="left">
-<img src="assets/nfts/12.png"
+<img src="assets/nfts/12.jfif"
      width="150">
      
 <img src="assets/nfts/1212.jfif"
@@ -176,7 +176,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 * ReggaetonPunksStar #17 - [Rauw Alejandro](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731307262120034305)
 
 <p float="left">
-<img src="assets/nfts/17.png"
+<img src="assets/nfts/18.jfif"
      width="150">
      
 <img src="assets/nfts/1717.jfif"
