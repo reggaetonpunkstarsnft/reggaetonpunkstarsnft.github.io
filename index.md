@@ -1,5 +1,7 @@
 # REGGAETON PUNK STARS NFT
 
+
+
 ## Highlights
 
 #### 21 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
@@ -264,7 +266,7 @@
  </p> 
  
  
- ## Our premium NFT collection
+## Our premium NFT collection
  
  * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
