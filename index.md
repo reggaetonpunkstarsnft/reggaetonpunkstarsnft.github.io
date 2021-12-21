@@ -2,7 +2,7 @@
 
 ## Highlights
 
-#### 20 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
+#### 21 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
 
 #### 20 Dec 2021 - Artist J Balvin likes our ReggaetonPunksStar #18 - [J Balvin Premium](https://twitter.com/reggaeton_nfts/status/1472963367417507843?s=20)
 
@@ -11,7 +11,7 @@
 #### 17 Dec 2021 - The first ReggaetonPunksStar is uploaded to OpenSea - [Reggaeton Punks Stars](https://opensea.io/collection/reggaetonpunkstars) <br><br>
 
 
-## Our collection
+## Our primary NFT collection
 
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
 
@@ -183,11 +183,6 @@
      width="150">
  </p> 
 
-* ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
-
-<img src="assets/nfts/18.gif"
-     width="150">
-
 * ReggaetonPunksStar #19 - [Don Omar](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731309461143289857)
 
 <p float="left">
@@ -267,3 +262,18 @@
 <img src="assets/nfts/2626.jpg"
      width="150">
  </p> 
+ 
+ 
+ ## Our premium NFT collection
+ 
+ * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
+
+<img src="assets/nfts/18.gif"
+     width="150">
+
+
+## Our reggaeton orchestra (audio) NFT collection
+
+* ReggaetonPunksStar #27 - [Ozuna Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731318257236312065)
+
+* ReggaetonPunksStar #28 - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
