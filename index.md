@@ -188,4 +188,82 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/18.gif"
      width="150">
 
+* ReggaetonPunksStar #19 - [Don Omar](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731309461143289857)
+
+<p float="left">
+<img src="assets/nfts/19.png"
+     width="150">
      
+<img src="assets/nfts/1919.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #20 - [Daddy Yankee](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731310560654917633)
+
+<p float="left">
+<img src="assets/nfts/20.png"
+     width="150">
+     
+<img src="assets/nfts/2020.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
+
+<p float="left">
+<img src="assets/nfts/21.png"
+     width="150">
+     
+<img src="assets/nfts/2121.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #22 - [Lorna](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731312759678173185)
+
+<p float="left">
+<img src="assets/nfts/22.png"
+     width="150">
+     
+<img src="assets/nfts/2222.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #23 - [Nicky Jam](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731313859189800961)
+
+<p float="left">
+<img src="assets/nfts/23.png"
+     width="150">
+     
+<img src="assets/nfts/2323.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #24 - [Wisin Y Yandel](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731314958701428737)
+
+<p float="left">
+<img src="assets/nfts/24.png"
+     width="150">
+     
+<img src="assets/nfts/2424.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #25 - [Yung Beef](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731316058213056513)
+
+<p float="left">
+<img src="assets/nfts/25.png"
+     width="150">
+     
+<img src="assets/nfts/2525.jfif"
+     width="150">
+ </p> 
+
+* ReggaetonPunksStar #26 - [Kidd Keo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731317157724684289)
+
+<p float="left">
+<img src="assets/nfts/26.png"
+     width="150">
+     
+<img src="assets/nfts/2626.jfif"
+     width="150">
+ </p> 
