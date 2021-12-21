@@ -1,8 +1,8 @@
 # REGGAETON PUNK STARS NFT
 
-Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 unique handmade pixelart reggaeton punks stars living in the Polygon. Created by JEVARTStudios.
-
 ## Highlights
+
+#### 20 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
 
 #### 20 Dec 2021 - Artist J Balvin likes our ReggaetonPunksStar #18 - [J Balvin Premium](https://twitter.com/reggaeton_nfts/status/1472963367417507843?s=20)
 
