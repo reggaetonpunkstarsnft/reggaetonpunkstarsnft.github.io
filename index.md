@@ -194,7 +194,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/19.png"
      width="150">
      
-<img src="assets/nfts/1919.jfif"
+<img src="assets/nfts/1919.jpg"
      width="150">
  </p> 
 
@@ -204,7 +204,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/20.png"
      width="150">
      
-<img src="assets/nfts/2020.jfif"
+<img src="assets/nfts/2020.jpg"
      width="150">
  </p> 
 
@@ -214,7 +214,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/21.png"
      width="150">
      
-<img src="assets/nfts/2121.jfif"
+<img src="assets/nfts/2121.jpg"
      width="150">
  </p> 
 
@@ -224,7 +224,7 @@ Welcome to Reggaeton Punks Stars NFT Project in OpenSea. Collection of 100 uniqu
 <img src="assets/nfts/22.png"
      width="150">
      
-<img src="assets/nfts/2222.jfif"
+<img src="assets/nfts/2222.jpg"
      width="150">
  </p> 
 
