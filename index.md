@@ -3,7 +3,7 @@
 Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 * 100 unique handmade reggaeton pixel art (primary collection, premium collection and musical collection).
 * Floor price will always be ETH 0.005.
-* Reggaeton Punks Stars owners receive 1 PERSONALIZED REGGAETON PUNK STAR NFT based on their profile picture for FREE. 
+* First 100 Reggaeton Punks Stars owners will receive 1 PERSONALIZED REGGAETON PUNK STAR NFT based on their profile picture for FREE. 
 * Merchandising to be released soon. <br><br>
 
 
