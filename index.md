@@ -26,7 +26,8 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 
 <p float="left">
 <img src="assets/nfts/1.jfif"
-     width="150">
+     width="150"
+     class="center">
      
 <img src="assets/nfts/111.jfif"
      width="150">
