@@ -2,12 +2,14 @@
 
 Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 * 100 unique handmade reggaeton pixel art (primary collection, premium collection and musical collection).
-* Floor price will always be ETH 0.05.
+* Floor price will always be ETH 0.5.
 * First 100 Reggaeton Punks Stars owners will receive 1 PERSONALIZED REGGAETON PUNK STAR NFT based on their profile picture for FREE. 
 * Merchandising to be released soon. <br><br>
 
 
 ## Highlights
+
+* 27 Dec 2021 - Artist J Balvin likes our ReggaetonPunksStar #13 - [J Balvin Blue](https://www.instagram.com/p/CXtKxUFIVP1/)
 
 * 21 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
 
@@ -270,12 +272,58 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
  
+ * ReggaetonPunksStar #30 - [Eladio Carrión](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731321555771195393)
+
+<p float="left">
+<img src="assets/nfts/b.png"
+     width="150">
+     
+<img src="assets/nfts/bb.jpg"
+     width="150">
+ </p> 
+ 
+ * ReggaetonPunksStar #31 - [Bizarrap (BZRP)](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731322655282823169)
+
+<p float="left">
+<img src="assets/nfts/c.png"
+     width="150">
+     
+<img src="assets/nfts/cc.jpg"
+     width="150">
+ </p> 
+ 
+ * ReggaetonPunksStar #32 - [Ptazeta](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731323754794450945)
+
+<p float="left">
+<img src="assets/nfts/d.png"
+     width="150">
+     
+<img src="assets/nfts/dd.jpg"
+     width="150">
+ </p> 
+ 
+  
+ * ReggaetonPunksStar #33 - [Juacko](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731324854306078721)
+
+<p float="left">
+<img src="assets/nfts/e.png"
+     width="150">
+     
+<img src="assets/nfts/ee.jpg"
+     width="150">
+ </p> 
+ 
  
 ## Our premium NFT collection
  
  * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
 <img src="assets/nfts/18.gif"
+     width="150">
+     
+ * ReggaetonPunksStar #29 - [Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
+
+<img src="assets/nfts/a.png"
      width="150">
 
 
