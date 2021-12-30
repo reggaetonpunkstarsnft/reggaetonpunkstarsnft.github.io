@@ -313,6 +313,16 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
  
+  * ReggaetonPunksStar #34 - [Mike Towers](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731325953817706497)
+
+<p float="left" align="center">
+<img src="assets/nfts/f.png"
+     width="150">
+     
+<img src="assets/nfts/ff.jpg"
+     width="150">
+ </p> 
+ 
  
 ## Our premium NFT collection
  
