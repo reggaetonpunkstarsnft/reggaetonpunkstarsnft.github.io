@@ -9,6 +9,10 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 
 ## Highlights
 
+* 5 Jan 2022 - First Reggaeton Punk Star SOLD - [ReggaetonPunksStar #29 - Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
+
+* 30 Dec 2021 - Artist Juacko likes our ReggaetonPunksStar #33 - [Juacko](https://www.instagram.com/p/CYHR4wCMORh/)
+
 * 27 Dec 2021 - Artist J Balvin likes our ReggaetonPunksStar #13 - [J Balvin Blue](https://www.instagram.com/p/CXtKxUFIVP1/)
 
 * 21 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
@@ -329,10 +333,21 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
  
+   * ReggaetonPunksStar #36 - [Tiago PZK](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731328152840962049)
+
+<p float="left" align="center">
+<img src="assets/nfts/g.png"
+     width="150">
+     
+<img src="assets/nfts/gg.jpg"
+     width="150">
+ </p> 
+ 
  
 ## Our premium NFT collection
  
- * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
+ * Re
+ aetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
 <p float="left" align="center">
 <img src="assets/nfts/18.gif"
