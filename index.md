@@ -20,6 +20,12 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 * 17 Dec 2021 - The first ReggaetonPunksStar is uploaded to OpenSea - [Reggaeton Punks Stars](https://opensea.io/collection/reggaetonpunkstars) <br><br>
 
 
+## Roadmap
+<p float="left" align="center">
+<img src="assets/rmf.jpg"
+     width="500">
+ </p>
+
 ## Our primary NFT collection
 
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
