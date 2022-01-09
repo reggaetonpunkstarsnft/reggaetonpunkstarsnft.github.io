@@ -46,7 +46,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p>
      
-* ReggaetonPunksStar #2 - [Rosalia](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731284172375851009)
+* `[SOLD]` ReggaetonPunksStar #2 - [Rosalia](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731284172375851009)
 
 <p float="left" align="center">
 <img src="assets/nfts/2.jfif"
@@ -66,7 +66,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
 
-* ReggaetonPunksStar #4 - [Anuel AA](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731286371399106561)
+* `[SOLD]` ReggaetonPunksStar #4 - [Anuel AA](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731286371399106561) 
 
 <p float="left" align="center">
 <img src="assets/nfts/4.jfif"
@@ -216,7 +216,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
 
-* ReggaetonPunksStar #20 - [Daddy Yankee](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731310560654917633)
+* `[SOLD]` ReggaetonPunksStar #20 - [Daddy Yankee](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731310560654917633)
 
 <p float="left" align="center">
 <img src="assets/nfts/20.png"
@@ -226,7 +226,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
 
-* ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
+* `[SOLD]` ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
 
 <p float="left" align="center">
 <img src="assets/nfts/21.png"
@@ -256,7 +256,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
 
-* ReggaetonPunksStar #24 - [Wisin Y Yandel](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731314958701428737)
+* `[SOLD]` ReggaetonPunksStar #24 - [Wisin Y Yandel](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731314958701428737)
 
 <p float="left" align="center">
 <img src="assets/nfts/24.png"
@@ -286,7 +286,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
  
- * ReggaetonPunksStar #30 - [Eladio Carrión](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731321555771195393)
+ * `[SOLD]` ReggaetonPunksStar #30 - [Eladio Carrión](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731321555771195393)
 
 <p float="left" align="center">
 <img src="assets/nfts/b.png"
@@ -358,32 +358,35 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
  </p> 
  
  
-## Our premium NFT collection
- 
- * Re
- aetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
-
-<p float="left" align="center">
-<img src="assets/nfts/18.gif"
-     width="150">
-     </p>
+## Our special edition NFT collection
      
- * ReggaetonPunksStar #29 - [Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
+ * `[SOLD]` ReggaetonPunksStar #29 - [Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
 
 <p float="left" align="center">
 <img src="assets/nfts/a.png"
      width="150">
 </p>
 
- * ReggaetonPunksStar #35 - [J Balvin 2022](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731327053329334273)
+ * `[SOLD]` ReggaetonPunksStar #35 - [J Balvin 2022](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731327053329334273)
 
 <p float="left" align="center">
 <img src="assets/nfts/2022.png"
      width="150">
 </p>
 
+
+## Our GIF NFT collection
+
+ * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
+
+<p float="left" align="center">
+<img src="assets/nfts/18.gif"
+     width="150">
+     </p>
+
+
 ## Our reggaeton orchestra (audio) NFT collection
 
 * ReggaetonPunksStar #27 - [Ozuna Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731318257236312065)
 
-* ReggaetonPunksStar #28 - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
+* `[SOLD]` ReggaetonPunksStar #28 - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
