@@ -34,6 +34,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="500">
  </p>
 
+
 ## Our primary NFT collection
 
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
@@ -386,7 +387,7 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      </p>
 
 
-## Our reggaeton orchestra (audio) NFT collection
+## Our reggaeton MUSICAL NFT collection (audio)
 
 * ReggaetonPunksStar #27 - [Ozuna Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731318257236312065)
 
