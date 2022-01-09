@@ -347,8 +347,9 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
      width="150">
  </p> 
  
-    * ReggaetonPunksStar #37 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731346844538634241)
-
+ 
+   * ReggaetonPunksStar #36 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
+    
 <p float="left" align="center">
 <img src="assets/nfts/h.png"
      width="150">
