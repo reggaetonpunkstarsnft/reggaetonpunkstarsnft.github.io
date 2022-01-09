@@ -9,6 +9,10 @@ Reggaeton Punks Stars NFT is the community every reggaeton lover needs to join:
 
 ## Highlights
 
+* 9 Jan 2022 - First Musical Reggaeton Punk Star SOLD - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
+
+* 7 Jan 2022 - Roadmap release - Phase 1 launched
+
 * 5 Jan 2022 - First Reggaeton Punk Star SOLD - [ReggaetonPunksStar #29 - Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
 
 * 30 Dec 2021 - Artist Juacko likes our ReggaetonPunksStar #33 - [Juacko](https://www.instagram.com/p/CYHR4wCMORh/)
