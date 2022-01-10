@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Reggaeton Punk Stars NFT
+title: Reggaeton Punks Stars NFT
 layout: default
 plugins:
     - jekyll-optional-front-matter
@@ -13,7 +13,7 @@ defaults:
       path: "*.md"
     values:
       layout: default
-tagline: THE UNIQUE NFT REGGAETON PUNK STARS COLLECTION
+tagline: THE UNIQUE NFT REGGAETON PUNKS STARS COLLECTION
 #twitter:
  #   - username: ...
 #social:
