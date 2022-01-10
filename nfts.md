@@ -1,3 +1,5 @@
+# Reggaeton Punks Stars Collection
+
 ## Our primary NFT collection
 
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
@@ -70,7 +72,7 @@
      width="150">
  </p> 
 
-* ReggaetonPunksStar #8 - [Romeo Santos](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731290769445617665)
+* `[SOLD]` ReggaetonPunksStar #8 - [Romeo Santos](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731290769445617665)
 
 <p float="left" align="center">
 <img src="assets/nfts/8.jfif"
@@ -140,7 +142,7 @@
      width="150">
  </p> 
 
-* ReggaetonPunksStar #15 - [J Balvin Rainbow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731305063096778753)
+* `[SOLD]` ReggaetonPunksStar #15 - [J Balvin Rainbow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731305063096778753)
 
 <p float="left" align="center">
 <img src="assets/nfts/15.png"
@@ -210,7 +212,7 @@
      width="150">
  </p> 
 
-* ReggaetonPunksStar #23 - [Nicky Jam](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731313859189800961)
+* `[SOLD]` ReggaetonPunksStar #23 - [Nicky Jam](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731313859189800961)
 
 <p float="left" align="center">
 <img src="assets/nfts/23.png"
@@ -291,7 +293,7 @@
      width="150">
  </p> 
  
-  * ReggaetonPunksStar #34 - [Mike Towers](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731325953817706497)
+  * `[SOLD]` ReggaetonPunksStar #34 - [Mike Towers](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731325953817706497)
 
 <p float="left" align="center">
 <img src="assets/nfts/f.png"
@@ -312,7 +314,7 @@
  </p> 
  
  
-   * ReggaetonPunksStar #36 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
+   * `[SOLD]` ReggaetonPunksStar #36 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
     
 <p float="left" align="center">
 <img src="assets/nfts/h.png"
@@ -342,7 +344,7 @@
 
 ## Our GIF NFT collection
 
- * ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
+ * `[SOLD]` ReggaetonPunksStar #18 - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
 <p float="left" align="center">
 <img src="assets/nfts/18.gif"
