@@ -14,10 +14,3 @@ Click [<b>here</b>](highlights.html) to discover our milestones. <br>
 
 ## Our collection
 Click [<b>here</b>](nfts.html) to see our Reggaeton Punks Stars and their status. <br>
-
-## Roadmap
-
-<p float="left" align="center">
-<img src="assets/rmf.jpg"
-     width="500">
- </p>
