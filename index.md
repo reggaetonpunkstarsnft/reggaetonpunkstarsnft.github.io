@@ -1,10 +1,10 @@
 # REGGAETON PUNK STARS NFT
 
 Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
-* 1000 unique handmade reggaeton pixel art (primary collection, special edition, GIF and musical collection).
-* First 50 Reggaeton Punks Stars owners receive 1 CUSTOMIZED PUNK STAR NFT based on their avatar picture for FREE. 
-* Merchandising to be released soon.
-* Don't miss our release flash prices! Check our roadmap below to discover our floor prices. <br><br>
+* 1000 unique handmade reggaeton pixel art.
+* First 50 Reggaeton Punks Stars owners receive 1 CUSTOMIZED PUNK STAR NFT based on their avatar picture for free. 
+* Merchandising, collaborations and many other surprises to be released soon.
+* Don't miss our release flash sales! Check our [roadmap](roadmap.html) below to discover our floor prices. <br><br>
 
 
 ## Highlights
