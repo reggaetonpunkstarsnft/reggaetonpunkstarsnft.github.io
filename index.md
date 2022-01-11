@@ -1,4 +1,4 @@
-# REGGAETON PUNKS STARS NFT
+# Our NFT project
 
 Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
 * 1000 unique handmade reggaeton pixel art [supported](highlights.html) by your favorite artists.
