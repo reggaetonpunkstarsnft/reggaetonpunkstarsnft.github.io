@@ -1,5 +1,7 @@
 # Reggaeton Punks Stars Collection
 
+Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggaetonpunkstars).
+
 ## Our primary NFT collection
 
 * ReggaetonPunksStar #1 - [Bad Bunny](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731283072864223233)
