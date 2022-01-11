@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Reggaeton Punks Stars NFT
+title: Reggaeton Punks Stars
 layout: default
 plugins:
     - jekyll-optional-front-matter
