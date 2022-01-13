@@ -377,7 +377,40 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/43.png"
      width="150">
      
-<img src="assets/nfts/433.JPG"
+<img src="assets/nfts/433.png"
+     width="150">
+ </p> 
+ 
+ 
+   * `[SOLD]` ReggaetonPunksStar #44 - [Farruko](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731369934282817537)
+    
+<p float="left" align="center">
+<img src="assets/nfts/44.png"
+     width="150">
+     
+<img src="assets/nfts/444.png"
+     width="150">
+ </p> 
+ 
+ 
+   * `[SOLD]` ReggaetonPunksStar #45 - [Ivy Queen](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731373232817700865)
+    
+<p float="left" align="center">
+<img src="assets/nfts/45.png"
+     width="150">
+     
+<img src="assets/nfts/4.png"
+     width="150">
+ </p> 
+ 
+ 
+   * `[SOLD]` ReggaetonPunksStar #46 - [Ñengo Flow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731374332329328641)
+    
+<p float="left" align="center">
+<img src="assets/nfts/46.png"
+     width="150">
+     
+<img src="assets/nfts/466.png"
      width="150">
  </p> 
  
