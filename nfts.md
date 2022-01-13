@@ -360,3 +360,5 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 
 * `[SOLD]` ReggaetonPunksStar #28 - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
 
+* `[SOLD]` ReggaetonPunksStar #41 - [Farruko Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731355640631656449)
+
