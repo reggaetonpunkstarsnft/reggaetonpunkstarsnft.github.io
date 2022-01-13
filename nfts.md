@@ -333,7 +333,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/38.png"
      width="150">
      
-<img src="assets/nfts/388.jpg"
+<img src="assets/nfts/388.JPG"
      width="150">
  </p> 
  
@@ -366,7 +366,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/42.png"
      width="150">
      
-<img src="assets/nfts/422.jpg"
+<img src="assets/nfts/422.JPG"
      width="150">
  </p> 
  
@@ -377,7 +377,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/43.png"
      width="150">
      
-<img src="assets/nfts/433.jpg"
+<img src="assets/nfts/433.JPG"
      width="150">
  </p> 
  
