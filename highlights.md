@@ -1,5 +1,11 @@
 ## Highlights
 
+* 13 Jan 2022 - Producer Mista Bombo follows our Instagram profile
+
+* 12 Jan 2022 - DJ Tom Sawyer buys ReggaetonPunksStar #40 - [Sech](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731354541120028673)
+
+* 11 Jan 2022 - Artist Farruko follows our Instagram profile
+
 * 9 Jan 2022 - First Musical Reggaeton Punk Star SOLD - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
 
 * 7 Jan 2022 - Roadmap release - Phase 1 launched
