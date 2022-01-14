@@ -54,7 +54,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
      
-* ReggaetonPunksStar #6 - [Ozuna](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731288570422362113)
+* `[SOLD]` ReggaetonPunksStar #6 - [Ozuna](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731288570422362113)
 
 <p float="left" align="center">
 <img src="assets/nfts/6.jfif"
@@ -104,7 +104,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
      
-* ReggaetonPunksStar #11 - [Pitbull](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731294067980500993)
+* `[SOLD]` ReggaetonPunksStar #11 - [Pitbull](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731294067980500993)
  
 <p float="left" align="center">
 <img src="assets/nfts/11.jfif"
@@ -194,7 +194,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
 
-* `[SOLD]` ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
+* `[RESOLD x5.3]` ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
 
 <p float="left" align="center">
 <img src="assets/nfts/21.png"
@@ -414,6 +414,17 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
+ 
+   * `[SOLD]` ReggaetonPunksStar #47 - [Molusco TV](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731376531352584193)
+    
+<p float="left" align="center">
+<img src="assets/nfts/47.png"
+     width="150">
+     
+<img src="assets/nfts/477.png"
+     width="150">
+ </p> 
+ 
 ## Our special edition NFT collection
      
  * `[SOLD]` ReggaetonPunksStar #29 - [Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
@@ -438,7 +449,14 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <p float="left" align="center">
 <img src="assets/nfts/18.gif"
      width="150">
-     </p>
+</p>
+
+ * `[SOLD]` ReggaetonPunksStar #48 - [Bad Bunny Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731377630864211969)
+
+<p float="left" align="center">
+<img src="assets/nfts/48.gif"
+     width="150">
+</p>
 
 
 ## Our reggaeton MUSICAL NFT collection (audio)
