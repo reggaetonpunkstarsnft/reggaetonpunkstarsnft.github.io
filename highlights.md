@@ -16,6 +16,8 @@
 
 * 30 Dec 2021 - Artist Juacko likes our ReggaetonPunksStar #33 - [Juacko](https://www.instagram.com/p/CYHR4wCMORh/)
 
+* 29 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #28 - [Don Omar Orchestra](https://twitter.com/reggaeton_nfts/status/1476299825859674112)
+
 * 27 Dec 2021 - Artist J Balvin likes our ReggaetonPunksStar #13 - [J Balvin Blue](https://www.instagram.com/p/CXtKxUFIVP1/)
 
 * 21 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #19 - [Don Omar](https://twitter.com/reggaeton_nfts/status/1473306995839098882)
