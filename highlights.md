@@ -1,6 +1,6 @@
 ## Highlights
 
-* 14 Jan 2022 - First ReggaetonPunksStar RESOLD - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
+* 14 Jan 2022 - First ReggaetonPunksStar RESOLD (x5.3 its original price) - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
 
 * 13 Jan 2022 - Producer Mista Bombo follows our Instagram profile
 
