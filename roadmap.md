@@ -1,6 +1,16 @@
 # Roadmap
 
+## General
+
 <p float="left" align="center">
-<img src="assets/roadmapv1.jpg"
+<img src="assets/rm1.jpg"
+     width="500">
+ </p>
+
+
+## Phase 2 
+
+<p float="left" align="center">
+<img src="assets/rm2.jpg"
      width="500">
  </p>
