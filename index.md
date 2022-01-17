@@ -6,7 +6,7 @@ Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
 * Become a member by owning Reggaeton Punks Stars NFTs.
 * First 50 members will receive a customized [Reggaeton Punks Stars Member NFT](https://opensea.io/collection/reggaetoncommunity) for free.
 * Merchandising, collaborations and [many other surprises](fam.html) soon!
-* Don't miss our 24h release flash sales! <b>Every week (W/F/Su) at 8PM UTC</b>.
+* Don't miss our 24h release flash sales! <b>W, F & Su at 8PM UTC</b>.
 
 ## Highlights
 Click [<b>here</b>](highlights.html) to discover our highlights and milestones. <br>
