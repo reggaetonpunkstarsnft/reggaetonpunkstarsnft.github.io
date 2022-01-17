@@ -1,6 +1,6 @@
 # RPS Project
 
-RPS is the community every reggaeton enthusiast needs to join:
+Reggaeton Punks Stars is the community every reggaeton enthusiast needs to join:
 * 1000 unique and handmade reggaeton pixel art NFTs.
 * [Supported](highlights.html) by your favorite artists.
 * Check our [<b>roadmap</b>](roadmap.html) to learn more about this project.
