@@ -4,7 +4,7 @@
 
 * 16 Jan 2022 - Artist Ms Nina likes our [ReggaetonPunksStar #57 - Ms Nina](https://www.instagram.com/p/CYzxOLEMxL6/)
 
-* 13 Jan 2022 - Producer Mista Bombo follows our Instagram profile
+* 13 Jan 2022 - Producer Mista Bombo follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
 
 * 12 Jan 2022 - DJ Tom Sawyer buys ReggaetonPunksStar #40 - [Sech](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731354541120028673)
 
