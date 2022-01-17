@@ -15,8 +15,8 @@ Click [<b>here</b>](highlights.html) to discover our milestones. <br>
 ## NFT listing
 Click [<b>here</b>](nfts.html) to see our Reggaeton Punks Stars, their type and their status. <br>
 
-## Members NFTs
-Click [<b>here</b>](https://opensea.io/collection/reggaetoncommunity) to view our Reggaeton Punks Star Members. <br>
+## RPS Fam
+Click [<b>here</b>](fam.html) to know your Member benefits up to now. <br>
 
 ## How to buy?
 Learn how to buy [<b>here</b>](https://www.instagram.com/p/CTw7BcJhhd-/).
