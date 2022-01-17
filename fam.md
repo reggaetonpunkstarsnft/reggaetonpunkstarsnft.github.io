@@ -44,7 +44,7 @@ Follow [Reggaeton Punks Stars](https://open.spotify.com/user/31ud2mherrc2yp62n34
 
 ## Metaverse 2.0
 
-We are bulding a nice place in the Metaverse for our Community to have meetings using their customized avatar. You will be able to can write post-its, talk, share your screen and do several other things. Our Metaverse 2.0 will be working on many VR/AR devices like Oculus Quest, Hololens, etc. If you don't have a VR Headset you can also access our Rooms using your browser!
+We are bulding a nice place in the Metaverse for our Community to have meetings using their customized avatar. You will be able to write post-its, talk, share your screen and do several other things. Our Metaverse 2.0 will be working on many VR/AR devices like Oculus Quest, Hololens, etc. If you don't have a VR Headset you can also access our Rooms using your browser!
 
 <p float="left" align="center">
 <img src="assets/fam/meta.JPG"
