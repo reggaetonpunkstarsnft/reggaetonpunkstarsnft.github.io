@@ -3,7 +3,7 @@
 All benefits showed in this page will be updated according to the project phase.
 
 ## First 50 owners
-First 50 members will receive a [customized Reggaeton Punks Stars Member NFT](https://opensea.io/collection/reggaetoncommunity) for free and they will be added to our Reggaeton Community Opensea collection.
+First 50 members will receive a [customized Reggaeton Punks Stars Member NFT](https://opensea.io/collection/reggaetoncommunity) for free and they will be added to our Reggaeton Community OpenSea collection.
 
 <p float="left" align="center">
 <img src="assets/fam/fam.JPG"
@@ -44,7 +44,7 @@ Follow [Reggaeton Punks Stars](https://open.spotify.com/user/31ud2mherrc2yp62n34
 
 ## Metaverse 2.0
 
-We are bulding a nice place in the Metaverse for our Community to have meetings using their customized avatar. You will be able to write post-its, talk, share your screen and do several other things. Our Metaverse 2.0 will be working on many VR/AR devices like Oculus Quest, Hololens, etc. If you don't have a VR Headset you can also access our Rooms using your browser!
+We are building a nice place in the Metaverse for our Community to have meetings using their customized avatar. You will be able to write post-its, talk, share your screen and do several other things. Our Metaverse 2.0 will be working on many VR/AR devices like Oculus Quest, Hololens, etc. If you don't have a VR Headset you can also access our Rooms using your browser!
 
 <p float="left" align="center">
 <img src="assets/fam/meta.JPG"
@@ -56,7 +56,7 @@ We are bulding a nice place in the Metaverse for our Community to have meetings 
 
 ## RPS Member of the month
 
-You can become the RPS Member of the month buy getting the highest number of NFTs during one month. The benefits of being the RPS Member of the month are:
+You can become the RPS Member of the month by getting the highest number of NFTs in that month. The benefits of being the RPS Member of the month are:
 
 * Your Customized NFT Avatar will be the cover of the RPS FAM Spotify Playlist during the following month.
 * If you don't have a Customized NFT Avatar because you were not one of the first 50 members, we will create one for you.
@@ -67,6 +67,6 @@ You can become the RPS Member of the month buy getting the highest number of NFT
 
 * All RPS Fam members will have privileges in our public raffles and giveaways. 
 * Premium and Musical RPS NFTs will grant you special privileges.
-* Owning more that one RPS NFT will improve your privileges.
+* Owning more than one RPS NFT will improve your privileges.
 * There will be private raffles and giveaways just for RPS Fam members.
 
