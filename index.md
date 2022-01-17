@@ -9,13 +9,13 @@ Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
 * Don't miss our 24h release flash sales! <b>W, F & Su at 8 PM UTC</b>.
 
 ## Highlights
-Click [<b>here</b>](highlights.html) to discover our highlights and milestones. <br>
+Click [<b>here</b>](highlights.html) to read our highlights and milestones. <br>
 
 ## Collectibles
 Click [<b>here</b>](nfts.html) to see our Reggaeton Punks Stars, their type and listing status. <br>
 
 ## RPS Fam
-Click [<b>here</b>](fam.html) to know your Member benefits up to now. <br>
+Click [<b>here</b>](fam.html) to discover your member benefits up to now. <br>
 
 ## How to buy?
 Learn how to buy [<b>here</b>](https://www.instagram.com/p/CTw7BcJhhd-/).
