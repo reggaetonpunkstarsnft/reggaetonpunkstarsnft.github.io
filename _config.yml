@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: <span style="font-size:1.8em">Reggaeton Punks Stars
+title: <span style="font-size:0.8em">Reggaeton Punks Stars
 layout: default
 plugins:
     - jekyll-optional-front-matter
