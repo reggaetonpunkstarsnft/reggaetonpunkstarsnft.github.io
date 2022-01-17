@@ -10,6 +10,8 @@
 
 * 11 Jan 2022 - Artist Farruko follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
 
+* 9 Jan 2022 - Producer EQ "The Equalizer" follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
+
 * 30 Dec 2021 - Artist Juacko likes our ReggaetonPunksStar #33 - [Juacko](https://www.instagram.com/p/CYHR4wCMORh/)
 
 * 29 Dec 2021 - Artist Don Omar likes our ReggaetonPunksStar #28 - [Don Omar Orchestra](https://twitter.com/reggaeton_nfts/status/1476299825859674112)
