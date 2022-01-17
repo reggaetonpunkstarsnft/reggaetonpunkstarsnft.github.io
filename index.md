@@ -1,4 +1,4 @@
-# Reggaeton Punks Stars Project
+# RPS Project
 
 Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
 * 1000 unique handmade reggaeton pixel art [supported](highlights.html) by your favorite artists.
@@ -11,7 +11,7 @@ Reggaeton Punks Stars NFT is the community every Reggaeton lover needs to join:
 ## Highlights
 Click [<b>here</b>](highlights.html) to discover our highlights and milestones. <br>
 
-## NFT collection
+## Collectibles
 Click [<b>here</b>](nfts.html) to see our Reggaeton Punks Stars, their type and listing status. <br>
 
 ## RPS Fam
