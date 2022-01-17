@@ -54,14 +54,6 @@ We are bulding a nice place in the Metaverse for our Community to have meetings 
 [SOON in Phase 2]
 
 
-## Giveaways
-
-* All RPS Fam members will have privileges in our public raffles and giveaways. 
-* Premium and Musical RPS NFTs will grant you special privileges.
-* Owning more that one RPS NFT will improve your privileges.
-* There will be private raffles and giveaways just for RPS Fam members.
-
-
 ## RPS Member of the month
 
 You can become the RPS Member of the month buy getting the highest number of NFTs during one month. The benefits of being the RPS Member of the month are:
@@ -69,4 +61,12 @@ You can become the RPS Member of the month buy getting the highest number of NFT
 * Your Customized NFT Avatar will be the cover of the RPS FAM Spotify Playlist during the following month.
 * If you don't have a Customized NFT Avatar because you were not one of the first 50 members, we will create one for you.
 * You will be able to reserve NFTs 24h before their drop during the following month.
+
+
+## Giveaways
+
+* All RPS Fam members will have privileges in our public raffles and giveaways. 
+* Premium and Musical RPS NFTs will grant you special privileges.
+* Owning more that one RPS NFT will improve your privileges.
+* There will be private raffles and giveaways just for RPS Fam members.
 
