@@ -17,6 +17,6 @@ Welcome to Reggaeton Punks Stars (RPS) NFT Project. Reggaeton Punks Stars is the
 
 ## [RPS Fam benefits](fam.html)
 
-## [How to buy?](buy.html)
+## [How to buy?](https://support.opensea.io/hc/en-us/articles/1500012889322-How-do-I-purchase-NFTs-on-Polygon-)
 
 ## [Q&A](qa.html)
