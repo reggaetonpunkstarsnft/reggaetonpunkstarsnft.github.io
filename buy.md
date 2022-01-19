@@ -45,7 +45,7 @@ Buying NFTs may seem confusing at first But once you learn the basics, it gets s
      width="500">
  </p>
 
-10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. </br></br>
+10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. <br><br>
 
 <p float="left" align="center">
 <img src="assets/howtobuy/F.jpg"
@@ -57,7 +57,7 @@ Buying NFTs may seem confusing at first But once you learn the basics, it gets s
      width="500">
  </p>
 
-Now you can look for your fav [Reggaeton Punks Star](https://opensea.io/collection/reggaetonpunkstars) and purchase it! We have two options to do so:</br></br>
+Now you can look for your fav [Reggaeton Punks Star](https://opensea.io/collection/reggaetonpunkstars) and purchase it! We have two options to do so:<br><br>
 
 <p float="left" align="center">
 <img src="assets/howtobuy/H.jpg"
@@ -66,7 +66,7 @@ Now you can look for your fav [Reggaeton Punks Star](https://opensea.io/collecti
 
 ## A. BUY WITH CARD (easier & faster if you just want to buy 1 NFT)
 
-"Buy with card" is a quite intuitive method. You just need to follow the steps to turn your usual currency into ETH and get your own Reggaeton Punks Star.</br></br>
+"Buy with card" is a quite intuitive method. You just need to follow the steps to turn your usual currency into ETH and get your own Reggaeton Punks Star.<br><br>
 
 ## B. BUY NOW (recommended if you want to buy more than 1 NFT. Requires an extra step)
 
@@ -96,7 +96,7 @@ After adding funds, the only step left is to click "Buy now" and follow the step
  
 
 
-</br></br></br></br></br>
+<br><br><br><br><br>
 
 \* *MetaMask is a a crypto wallet & gateway to blockchain apps that equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets.*
 
