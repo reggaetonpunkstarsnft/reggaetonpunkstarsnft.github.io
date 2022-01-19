@@ -33,7 +33,7 @@ Some of our Reggaeton Punks Stars are already perreando in [OpenSea](https://ope
 * Wednesdays: +1 NEW MUSICAL RPS!
 * Fridays: +1 NEW PREMIUM RPS! (Only Jan/Feb)
 
-Special RPS NFTs will be launched randomly. [Stay tuned](https://www.instagram.com/reggaetonpunkstars/?hl=es) for more! </b><br><br>
+Special RPS NFTs will be launched randomly. [Stay tuned](https://www.instagram.com/reggaetonpunkstars/?hl=es) for more! <br><br>
 
 
 ### WELCOME TO THE REGGAETON PUNKS STARS FAM! 🔥 
