@@ -27,7 +27,7 @@ Welcome to Reggaeton Punks Stars (RPS) NFT Project. Reggaeton Punks Stars is the
 
 *Reggaeton Punks Stars* NFT project was born with the aim of turning reggaeton musicians, vocalists, producers, dancers, fans and overall reggaeton lovers of the globe a big Community where we can share our ideas, creations and hangout together enjoying reggaeton. Inspired in the famous [CryptoPunks](https://en.wikipedia.org/wiki/CryptoPunks) collection (recently raking in over $100 million in sales volume), our designers from JEVART Studios work hard to turn your favorite Reggaeton Stars into Reggaeton Punks Stars!
 
-Some of our Reggaeton Punks Stars are already perreando in [OpeanSea](https://opensea.io/collection/reggaetonpunkstars). The rest of them will be launched following a weekly basis:
+Some of our Reggaeton Punks Stars are already perreando in [OpenSea](https://opensea.io/collection/reggaetonpunkstars). The rest of them will be launched following a weekly basis:
 
 * Sundays: +8 NEW RPS!
 * Wednesdays: +1 NEW MUSICAL RPS!
