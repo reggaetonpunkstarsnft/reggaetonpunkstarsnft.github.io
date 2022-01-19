@@ -4,49 +4,49 @@
 
 Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. We want to make this process as easy and straightforward as possible, so we have created the ultimate step-by-step 'How to Buy' guide:
 
-  1. [Open OpenSea](https://opensea.io/collection/reggaetonpunkstars) in your browser.
+1. [Open OpenSea](https://opensea.io/collection/reggaetonpunkstars) in your browser.
 
 <p float="left" align="center">
 <img src="assets/howtobuy/A.jpg"
      width="500">
  </p>
 
-  2. Choose <b>MetaMask</b>* wallet. 
+2. Choose <b>MetaMask</b>* wallet. 
 
-  3. Install MetaMask extension in your browser**. 
+3. Install MetaMask extension in your browser**. 
 
-  4. If you don't have a MetaMask wallet, create one by clicking "Create a Wallet". If you have a previous Wallet, just import it with your secret recovery phrase.
+4. If you don't have a MetaMask wallet, create one by clicking "Create a Wallet". If you have a previous Wallet, just import it with your secret recovery phrase.
 
 <p float="left" align="center">
 <img src="assets/howtobuy/B.jpg"
      width="500">
  </p>
 
-  5. Follow the MetaMasks steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner, since it is unique, non-transferable and necessary.*
+5. Follow the MetaMasks steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner, since it is unique, non-transferable and necessary.*
 
-  6. Open [MetaMask](chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html). You'll see the following screen:
+6. Open [MetaMask](chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html). You'll see the following screen:
 
 <p float="left" align="center">
 <img src="assets/howtobuy/C.jpg"
      width="500">
  </p>
 
-  7. Now you need to configure your Wallet to use it in the Polygon network***. Click "Ethereum Mainnet" the right upper corner and then click "Add Network".
+7. Now you need to configure your Wallet to use it in the Polygon network***. Click "Ethereum Mainnet" the right upper corner and then click "Add Network".
 
-  8. Fill the gaps with the following info and click "Save".
+8. Fill the gaps with the following info and click "Save".
 
 <p float="left" align="center">
 <img src="assets/howtobuy/D.jpg"
      width="500">
  </p>
 
-  9. Choose the recently created "Polygon Mainnet" network in the upper right corner.
+9. Choose the recently created "Polygon Mainnet" network in the upper right corner.
 <p float="left" align="center">
 <img src="assets/howtobuy/E.jpg"
      width="500">
  </p>
 
-  10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. <br><br>
+10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. <br><br>
 
 <p float="left" align="center">
 <img src="assets/howtobuy/F.jpg"
