@@ -9,20 +9,20 @@ Buying NFTs may seem confusing at first But once you learn the basics, it gets s
      width="500">
  </p>
 
-2. Choose <b>Metamask</b>* wallet. 
+2. Choose <b>MetaMask</b>* wallet. 
 
-3. Install Metamask extension in your browser**. 
+3. Install MetaMask extension in your browser**. 
 
-4. If you don't have a Metamask wallet, create one by clicking "Create a Wallet". If you have a previous Wallet, just import it with your secret recovery phrase.
+4. If you don't have a MetaMask wallet, create one by clicking "Create a Wallet". If you have a previous Wallet, just import it with your secret recovery phrase.
 
 <p float="left" align="center">
 <img src="assets/howtobuy/B.jpg"
      width="500">
  </p>
 
-5. Follow the Metamasks steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner, since it is unique, non-transferable and necessary.*
+5. Follow the MetaMasks steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner, since it is unique, non-transferable and necessary.*
 
-6. Open [Metamask](chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html). You'll see the following screen:
+6. Open [MetaMask](chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html). You'll see the following screen:
 
 <p float="left" align="center">
 <img src="assets/howtobuy/C.jpg"
@@ -45,7 +45,7 @@ Buying NFTs may seem confusing at first But once you learn the basics, it gets s
      width="500">
  </p>
 
-10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "Metamask" and accept the OpenSea connection with Metamask. </br></br>
+10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. </br></br>
 
 <p float="left" align="center">
 <img src="assets/howtobuy/F.jpg"
@@ -70,7 +70,7 @@ Now you can look for your fav [Reggaeton Punks Star](https://opensea.io/collecti
 
 ## B. BUY NOW (recommended if you want to buy more than 1 NFT. Requires an extra step)
 
-You can add funds to your Metamask Wallet by clicking "ADD FUNDS" in your upper right Wallet icon. 
+You can add funds to your MetaMask Wallet by clicking "ADD FUNDS" in your upper right Wallet icon. 
 
 * <b>IMPORTANT: Choose the ETH - Ethereum (Polygon) cryptocurrency"</b>, since our RPS Collection lives in the Polygon Network.
 * Take into consideration GAS fees. You'll probably need to add between 5%-10% more funds than the quantity you want to spend.
@@ -100,6 +100,6 @@ After adding funds, the only step left is to click "Buy now" and follow the step
 
 \* *MetaMask is a a crypto wallet & gateway to blockchain apps that equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets.*
 
-\** *Once installed, you will find the Metamask icon in the upper right corner of your browser, otherwise you should be able to find it in the list of our browser extensions (we recommend to pin it in the upper bar).*
+\** *Once installed, you will find the MetaMask icon in the upper right corner of your browser, otherwise you should be able to find it in the list of our browser extensions (we recommend to pin it in the upper bar).*
 
 \*** *Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks.*
