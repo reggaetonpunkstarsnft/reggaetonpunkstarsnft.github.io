@@ -13,6 +13,6 @@ Our Roadmap will be updated in each phase.
 ## Phase 2 
 
 <p float="left" align="center">
-<img src="assets/rm2.jpg"
+<img src="assets/rm3.jpg"
      width="500">
  </p>
