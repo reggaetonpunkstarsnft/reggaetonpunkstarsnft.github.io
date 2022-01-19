@@ -10,7 +10,7 @@ Welcome to Reggaeton Punks Stars (RPS) NFT Project. Reggaeton Punks Stars is the
 * Merchandising, collaborations and [many other surprises](fam.html) soon!
 * Don't miss our 24h release flash sales! <b>W, F & Su at 8 PM UTC. </b><br><br>
 
-# 
+# Explore
 
 ## [⭐ Highlights](highlights.html)
 
