@@ -20,7 +20,7 @@ Welcome to Reggaeton Punks Stars (RPS) NFT Project. Reggaeton Punks Stars is the
 
 ### 🛒 [How to buy](buy.html)
 
-### ❓ [Q&A](qa.html) </b><br><br>
+### ❓ [Q&A](qa.html) <br><br>
 
 
 ## About us
