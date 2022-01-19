@@ -2,7 +2,7 @@
 
 `(steps: 10, time: 5')`
 
-Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. We want to make this process as easy and straightforward as possible, so we have created the ultimate step-by-step 'How to Buy' guide:
+Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. We want to make this process as easy and straightforward as possible. Therefore we have created the ultimate step-by-step guide on 'How to Buy':
 
 -1. [Open OpenSea](https://opensea.io/collection/reggaetonpunkstars) in your browser.
 
@@ -15,14 +15,14 @@ Buying NFTs may seem confusing at first, but once you learn the basics, it gets 
 
 -3. Install MetaMask extension in your browser**. 
 
--4. If you don't have a MetaMask wallet, create one by clicking "Create a Wallet". If you have a previous Wallet, just import it with your secret recovery phrase.
+-4. If you don't have a MetaMask wallet, just create one by clicking "Create a Wallet". If you already have a Wallet please import it with your secret recovery phrase.
 
 <p float="left" align="center">
 <img src="assets/howtobuy/B.jpg"
      width="500">
  </p>
 
--5. Follow the MetaMasks steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner, since it is unique, non-transferable and necessary.*
+-5. Follow the MetaMask steps to create a Wallet. *Remember the secret phrase should be kept securely by the Wallet owner. Since it is unique, non-transferable and necessary.*
 
 -6. Open [MetaMask](chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html). You'll see the following screen:
 
