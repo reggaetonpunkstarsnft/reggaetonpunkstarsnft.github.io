@@ -1,6 +1,8 @@
-# How to buy (steps: 10, time: 5')
+# How to buy 
 
-Buying NFTs may seem confusing at first But once you learn the basics, it gets simpler. RPS Fam want to make this process as easy and straightforward as possible, so we have created the ultimate step-by-step guide:
+`(steps: 10, time: 5')`
+
+Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. RPS Fam want to make this process as easy and straightforward as possible, so we have created the ultimate step-by-step guide:
 
 1. [Open OpenSea](https://opensea.io/collection/reggaetonpunkstars) in your browser.
 
