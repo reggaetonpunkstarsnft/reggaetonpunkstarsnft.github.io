@@ -1,4 +1,4 @@
-# RPS PROJECT
+# About RPS Project
 
 Welcome to Reggaeton Punks Stars (RPS) NFT Project. Reggaeton Punks Stars is the community every reggaeton lover needs to join: 
 
