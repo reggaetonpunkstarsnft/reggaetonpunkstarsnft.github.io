@@ -431,7 +431,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/51.png"
      width="150">
      
-<img src="assets/nfts/51.jpg"
+<img src="assets/real/51.jpg"
      width="150">
  </p> 
  
@@ -441,7 +441,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/52.png"
      width="150">
      
-<img src="assets/nfts/52.jpg"
+<img src="assets/real/52.jpg"
      width="150">
  </p> 
  
@@ -451,7 +451,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/53.png"
      width="150">
      
-<img src="assets/nfts/53.jpg"
+<img src="assets/real/53.jpg"
      width="150">
  </p> 
  
@@ -461,7 +461,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/54.png"
      width="150">
      
-<img src="assets/nfts/54.jpg"
+<img src="assets/real/54.jpg"
      width="150">
  </p> 
  
@@ -471,7 +471,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/55.png"
      width="150">
      
-<img src="assets/nfts/55.jpg"
+<img src="assets/real/55.jpg"
      width="150">
  </p> 
  
@@ -481,7 +481,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/56.png"
      width="150">
      
-<img src="assets/nfts/56.jpg
+<img src="assets/real/56.jpg
      width="150">
  </p> 
  
@@ -491,7 +491,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/57.png"
      width="150">
      
-<img src="assets/nfts/57.jpg"
+<img src="assets/real/57.jpg"
      width="150">
  </p> 
  
@@ -501,7 +501,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/58.png"
      width="150">
      
-<img src="assets/nfts/58.jpg"
+<img src="assets/real/58.jpg"
      width="150">
  </p> 
  
