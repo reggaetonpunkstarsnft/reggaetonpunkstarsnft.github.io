@@ -64,7 +64,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
      
-* ReggaetonPunksStar #7 - [J Balvin](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731289669933989889)
+* `[SOLD]` ReggaetonPunksStar #7 - [J Balvin](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731289669933989889)
 
 <p float="left" align="center">
 <img src="assets/nfts/7.png"
@@ -264,7 +264,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
- * ReggaetonPunksStar #31 - [Bizarrap (BZRP)](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731322655282823169)
+ * `[SOLD]` ReggaetonPunksStar #31 - [Bizarrap (BZRP)](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731322655282823169)
 
 <p float="left" align="center">
 <img src="assets/nfts/31.png"
@@ -295,7 +295,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
-  * `[SOLD]` ReggaetonPunksStar #34 - [Mike Towers](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731325953817706497)
+ * `[SOLD]` ReggaetonPunksStar #34 - [Mike Towers](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731325953817706497)
 
 <p float="left" align="center">
 <img src="assets/nfts/34.png"
@@ -305,7 +305,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
-   * ReggaetonPunksStar #36 - [Tiago PZK](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731328152840962049)
+ * ReggaetonPunksStar #36 - [Tiago PZK](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731328152840962049)
 
 <p float="left" align="center">
 <img src="assets/nfts/36.png"
@@ -316,7 +316,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #37 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
+ * `[SOLD]` ReggaetonPunksStar #37 - [Arcángel 2010](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
     
 <p float="left" align="center">
 <img src="assets/nfts/37.png"
@@ -338,7 +338,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #39 - [Tego Calderón](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731351242585145345)
+ * `[SOLD]` ReggaetonPunksStar #39 - [Tego Calderón](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731351242585145345)
     
 <p float="left" align="center">
 <img src="assets/nfts/39.png"
@@ -349,7 +349,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #40 - [Sech](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731354541120028673)
+* `[SOLD]` ReggaetonPunksStar #40 - [Sech](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731354541120028673)
     
 <p float="left" align="center">
 <img src="assets/nfts/40.png"
@@ -360,7 +360,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #42 - [Bad Bunny AMAs 2021](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731367735259561985)
+* `[SOLD]` ReggaetonPunksStar #42 - [Bad Bunny AMAs 2021](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731367735259561985)
     
 <p float="left" align="center">
 <img src="assets/nfts/42.png"
@@ -371,7 +371,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #43 - [Chente Ydrach](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731368834771189761)
+* `[SOLD]` ReggaetonPunksStar #43 - [Chente Ydrach](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731368834771189761)
     
 <p float="left" align="center">
 <img src="assets/nfts/43.png"
@@ -382,7 +382,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #44 - [Farruko](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731369934282817537)
+* `[SOLD]` ReggaetonPunksStar #44 - [Farruko](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731369934282817537)
     
 <p float="left" align="center">
 <img src="assets/nfts/44.png"
@@ -393,7 +393,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #45 - [Ivy Queen](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731373232817700865)
+* `[SOLD]` ReggaetonPunksStar #45 - [Ivy Queen](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731373232817700865)
     
 <p float="left" align="center">
 <img src="assets/nfts/45.png"
@@ -404,7 +404,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #46 - [Ñengo Flow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731374332329328641)
+* `[SOLD]` ReggaetonPunksStar #46 - [Ñengo Flow](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731374332329328641)
     
 <p float="left" align="center">
 <img src="assets/nfts/46.png"
@@ -415,7 +415,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #47 - [Molusco TV](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731376531352584193)
+* `[SOLD]` ReggaetonPunksStar #47 - [Molusco TV](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731376531352584193)
     
 <p float="left" align="center">
 <img src="assets/nfts/47.png"
@@ -425,83 +425,83 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
-    * `[SOLD]` ReggaetonPunksStar #51 - [Tito el Bambino](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731382028910723073)
+ * `[SOLD]` ReggaetonPunksStar #51 - [Tito el Bambino](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731382028910723073)
     
 <p float="left" align="center">
 <img src="assets/nfts/51.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/51.jpg"
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #52 - [Natti Natasha](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731383128422350849)
+* `[SOLD]` ReggaetonPunksStar #52 - [Natti Natasha](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731383128422350849)
     
 <p float="left" align="center">
 <img src="assets/nfts/52.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/52.jpg"
      width="150">
  </p> 
  
-     * ReggaetonPunksStar #53 - [Blessd](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731384227933978625)
+* ReggaetonPunksStar #53 - [Blessd](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731384227933978625)
     
 <p float="left" align="center">
 <img src="assets/nfts/53.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/53.jpg"
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #54 - [Ñejo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731385327445606401)
+* `[SOLD]` ReggaetonPunksStar #54 - [Ñejo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731385327445606401)
     
 <p float="left" align="center">
 <img src="assets/nfts/54.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/54.jpg"
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #55 - [Don Patricio](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731386426957234177)
+* `[SOLD]` ReggaetonPunksStar #55 - [Don Patricio](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731386426957234177)
     
 <p float="left" align="center">
 <img src="assets/nfts/55.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/55.jpg"
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #56 - [Almighty](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731387526468861953)
+* `[SOLD]` ReggaetonPunksStar #56 - [Almighty](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731387526468861953)
     
 <p float="left" align="center">
 <img src="assets/nfts/56.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/56.jpg
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #57 - [Ms Nina](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731388625980489729)
+* ReggaetonPunksStar #57 - [Ms Nina](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731388625980489729)
     
 <p float="left" align="center">
 <img src="assets/nfts/57.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/57.jpg"
      width="150">
  </p> 
  
-     * `[SOLD]` ReggaetonPunksStar #58 - [Maluma](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731389725492117505)
+* ReggaetonPunksStar #58 - [Maluma](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731389725492117505)
     
 <p float="left" align="center">
 <img src="assets/nfts/58.png"
      width="150">
      
-<img src="assets/nfts/"
+<img src="assets/nfts/58.jpg"
      width="150">
  </p> 
  
