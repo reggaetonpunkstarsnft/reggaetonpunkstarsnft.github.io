@@ -481,7 +481,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/56.png"
      width="150">
      
-<img src="assets/real/56.jpg
+<img src="assets/real/56.jpg"
      width="150">
  </p> 
  
