@@ -1,4 +1,4 @@
-# Q&A
+# FAQ
 
 * <b> What is Reggaeton Punks Stars? </b>
 
