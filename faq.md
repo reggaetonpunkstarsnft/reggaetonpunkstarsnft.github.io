@@ -10,9 +10,9 @@ RPS is a collection of 1000 unique and handmade reggaeton pixel art NFTs living 
 
 At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like bitcoin or dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently from, say, an ETH coin. <br>
 
-* <b> What's the price of a RPS NFT? </b>
+* <b> What's the price of a Reggaeton Punks Stars NFT? </b>
 
-The price os a RPS NFT depends on its type and the current phase of the project. Please check our [Roadmap](https://reggaetonpunkstarsnft.github.io/roadmap.html).
+The prices of RPS NFTs depends on their type and the current phase of the project. Please check our [Roadmap](https://reggaetonpunkstarsnft.github.io/roadmap.html).
 
 * <b> Hoy can I buy Reggaeton Punks Stars NFTs? </b>
 
