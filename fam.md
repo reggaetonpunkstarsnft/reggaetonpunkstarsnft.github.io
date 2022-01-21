@@ -24,7 +24,7 @@ Visit our [Virtual Gallery](https://oncyber.io/reggaetonpunkstars) and check our
 Follow [Reggaeton Punks Stars](https://open.spotify.com/user/31ud2mherrc2yp62n34632ukveqy?si=4b2223c275674825) and you will find the following playlists: 
 
 * <b>RPS - Phase X:</b> All reggaeton hits included in Phase X ReggaetonPunksStars NFT collection.
-* <b>RPS Radio:</b> Collaborative playlist editable by RPS Fam members. Add you FAV reggaeton songs!
+* <b>RPS Radio:</b> Private collaborative playlist editable by RPS Fam members. Add you FAV reggaeton songs!
 * <b>RPS FAM:</b> Playlist with songs created by our Artist RPS Members and/or friends (2 per member).
 
 
