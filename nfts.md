@@ -327,7 +327,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[SOLD]` ReggaetonPunksStar #38 - [Arcángel 2020](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731350143073517569)
+   * `[RESOLD x7.1]` ReggaetonPunksStar #38 - [Arcángel 2020](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731350143073517569)
     
 <p float="left" align="center">
 <img src="assets/nfts/38.png"
