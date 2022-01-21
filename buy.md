@@ -2,7 +2,7 @@
 
 `(steps: 10, time: 5')`
 
-Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. We want to make this process as easy and straightforward as possible. Therefore we have created the ultimate step-by-step guide on 'How to Buy':
+Buying NFTs may seem confusing at first, but once you learn the basics, it gets simpler. We want to make this process as easy and straightforward as possible. Therefore, we have created the ultimate step-by-step guide on 'How to Buy':
 
 -1. [Open OpenSea](https://opensea.io/collection/reggaetonpunkstars) in your browser.
 
