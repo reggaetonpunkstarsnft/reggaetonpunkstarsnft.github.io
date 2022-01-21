@@ -16,7 +16,7 @@ The prices of RPS NFTs depends on their type and the current phase of the projec
 
 * <b> Hoy can I buy Reggaeton Punks Stars NFTs? </b>
 
-We have recently created the ultimate guide on [How to Buy](https://reggaetonpunkstarsnft.github.io/buy.html). <br>
+We have recently published the ultimate guide on [How to Buy](https://reggaetonpunkstarsnft.github.io/buy.html). <br>
 
 * <b> I want to buy a RPS NFT but it's already sold. What can I do? </b>
 
