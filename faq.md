@@ -12,9 +12,9 @@ At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is
 
 * <b> What's the price of a RPS NFT? </b>
 
-The price a RPS NFT depends on its type and the current phase of the project. Please check our [Roadmap](https://reggaetonpunkstarsnft.github.io/roadmap.html).
+The price os a RPS NFT depends on its type and the current phase of the project. Please check our [Roadmap](https://reggaetonpunkstarsnft.github.io/roadmap.html).
 
-* <b> Hoy can I buy Reggaeton Punks Stars? </b>
+* <b> Hoy can I buy Reggaeton Punks Stars NFTs? </b>
 
 We have recently created the ultimate guide on [How to Buy](https://reggaetonpunkstarsnft.github.io/buy.html). <br>
 
@@ -26,11 +26,11 @@ No problem! Sold NFTs can be resold. Therefore, you can buy-back them form our m
 
 You can copy a digital file as many times as you want, including the art that’s included with an NFT. But NFTs are designed to give you something that can’t be copied: ownership of the work (though the artist can still retain the copyright and reproduction rights) and community membership. There's only one way of being part of the RPS Fam. That way is owing at least one Reggaeton Punks Star. <br>
 
-* <b> When are RPS dropping new NFTs? </b>
+* <b> When is RPS Team dropping new NFTs? </b>
 
 It depends on the project phase. Please check our [Roadmap](https://reggaetonpunkstarsnft.github.io/roadmap.html). <br>
 
-* <b> When will RPS drop my fav artist? </b>
+* <b> When will RPS Team drop my fav artist? </b>
 
 Probably soon! In case you want it sooner, you can [contact us](https://www.instagram.com/reggaetonpunkstars/?hl=es) and directly suggest it. We're listening closely to your suggestions. <br>
 
@@ -38,7 +38,7 @@ Probably soon! In case you want it sooner, you can [contact us](https://www.inst
 
 Owning at least one Reggaeton Punks Star NFT grants you the access to the RPS Fam. <br>
 
-* <b> What privileges I obtain from being part of the RPS Fam? </b>
+* <b> What privileges do I obtain from being part of the RPS Fam? </b>
 
 Exclusive reggaeton materials, Metaverse, private givaways, Discord community, Spotify playlists, merchandising... and much more! RPS Fam [benefits](https://reggaetonpunkstarsnft.github.io/fam.html) are being updated and upgraded on each phase. <br>
 
