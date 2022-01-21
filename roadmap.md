@@ -1,6 +1,6 @@
 # Roadmap
 
-Our Roadmap will be updated phase by phase.
+Our Roadmap is updated in each phase.
 
 ## General
 
