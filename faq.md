@@ -4,7 +4,7 @@
 
 RPS is a collection of 1000 unique and handmade reggaeton pixel art NFTs living in OpenSea. Reggaeton Punks Stars NFT project was born with the aim of creating a big virtual community for reggaeton listeners, musicians, producers, dancers, and overall, reggaeton lovers around the globe. Learn more about us in our [Home page](https://reggaetonpunkstarsnft.github.io/). <br>
 
-* <b> What are NFTs (Non-fungible tokens)? </b>
+* <b> What are NFTs (Non-Fungible Tokens)? </b>
 
 “Non-fungible” more or less means that it’s unique and can’t be replaced with something else. NFTs can really be anything digital (such as drawings, music, ...), but a lot of the current excitement is around using the tech to sell digital art and building community.
 
