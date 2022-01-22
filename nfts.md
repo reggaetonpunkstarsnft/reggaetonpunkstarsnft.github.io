@@ -194,7 +194,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
 
-* `[RESOLD x5.3]` ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
+* `[RESOLD]` ReggaetonPunksStar #21 - [Karol G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731311660166545409)
 
 <p float="left" align="center">
 <img src="assets/nfts/21.png"
@@ -327,7 +327,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-   * `[RESOLD x7.1]` ReggaetonPunksStar #38 - [Arcángel 2020](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731350143073517569)
+   * `[RESOLD]` ReggaetonPunksStar #38 - [Arcángel 2020](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731350143073517569)
     
 <p float="left" align="center">
 <img src="assets/nfts/38.png"
@@ -360,7 +360,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  </p> 
  
  
-* `[SOLD]` ReggaetonPunksStar #42 - [Bad Bunny AMAs 2021](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731367735259561985)
+* `[RESOLD]` ReggaetonPunksStar #42 - [Bad Bunny AMAs 2021](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731367735259561985)
     
 <p float="left" align="center">
 <img src="assets/nfts/42.png"
@@ -495,7 +495,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
-* ReggaetonPunksStar #58 - [Maluma](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731389725492117505)
+* `[SOLD]` ReggaetonPunksStar #58 - [Maluma](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731389725492117505)
     
 <p float="left" align="center">
 <img src="assets/nfts/58.png"
@@ -543,6 +543,13 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 
 <p float="left" align="center">
 <img src="assets/nfts/48.gif"
+     width="150">
+</p>
+
+ * `[SOLD]` ReggaetonPunksStar #60 - [Free Anuel Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731394123538628609)
+
+<p float="left" align="center">
+<img src="assets/nfts/60.gif"
      width="150">
 </p>
 
