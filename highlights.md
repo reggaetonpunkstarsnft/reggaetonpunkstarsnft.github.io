@@ -2,6 +2,8 @@
 
 ## Support
 
+* 23 Jan 2022 - Artist Tomasa del Real likes and share our [ReggaetonPunksStar #63 - Tomasa del Real](https://www.instagram.com/p/CZFd-nmscK0/)
+
 * 20 Jan 2022 - Producer CRBRO follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
 
 * 16 Jan 2022 - Artist Ms Nina likes our [ReggaetonPunksStar #57 - Ms Nina](https://www.instagram.com/p/CYzxOLEMxL6/)
@@ -29,6 +31,8 @@
 ## Project
 
 * 19 Jan 2022 - [RPS Spotify](https://open.spotify.com/user/31ud2mherrc2yp62n34632ukveqy?si=ddb5227bd8584594&nd=1) official release
+
+* 19 Jan 2022 - "Reggaeton Punks Stars take over the city" sticker project starts
 
 * 16 Jan 2022 - Roadmap release ([Phase 2](roadmap.html))
 
