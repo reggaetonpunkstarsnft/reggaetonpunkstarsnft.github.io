@@ -505,6 +505,86 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
+  * `[SOLD]` ReggaetonPunksStar #61 - [Plan B](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731397422073511937)
+    
+<p float="left" align="center">
+<img src="assets/nfts/61.png"
+     width="150">
+     
+<img src="assets/real/61.jpg"
+     width="150">
+ </p> 
+ 
+* `[SOLD]` ReggaetonPunksStar #62 - [Ankhal](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731398521585139713)
+    
+<p float="left" align="center">
+<img src="assets/nfts/62.png"
+     width="150">
+     
+<img src="assets/real/62.jpg"
+     width="150">
+ </p> 
+ 
+* ReggaetonPunksStar #63 - [Tomasa del Real](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731399621096767489)
+    
+<p float="left" align="center">
+<img src="assets/nfts/63.png"
+     width="150">
+     
+<img src="assets/real/63.jpg"
+     width="150">
+ </p> 
+ 
+* `[SOLD]` ReggaetonPunksStar #64 - [Jhay Cortez](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731400720608395265)
+    
+<p float="left" align="center">
+<img src="assets/nfts/64.png"
+     width="150">
+     
+<img src="assets/real/64.jpg"
+     width="150">
+ </p> 
+ 
+* ReggaetonPunksStar #65 - [Nicki Nicole](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731401820120023041)
+    
+<p float="left" align="center">
+<img src="assets/nfts/65.png"
+     width="150">
+     
+<img src="assets/real/65.jpg"
+     width="150">
+ </p> 
+ 
+* ReggaetonPunksStar #66 - [Trueno](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731402919631650817)
+    
+<p float="left" align="center">
+<img src="assets/nfts/66.png"
+     width="150">
+     
+<img src="assets/real/66.jpg"
+     width="150">
+ </p> 
+ 
+* ReggaetonPunksStar #67 - [Luar La L](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731404019143278593)
+    
+<p float="left" align="center">
+<img src="assets/nfts/67.png"
+     width="150">
+     
+<img src="assets/real/67.jpg"
+     width="150">
+ </p> 
+ 
+* `[SOLD]` ReggaetonPunksStar #68 - [Boza](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731405118654906369)
+    
+<p float="left" align="center">
+<img src="assets/nfts/68.png"
+     width="150">
+     
+<img src="assets/real/68.jpg"
+     width="150">
+ </p> 
+ 
  
 ## Our Special NFT collection
      
