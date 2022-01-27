@@ -2,6 +2,8 @@
 
 ## Support
 
+* 26 Jan 2022 - Artist Tomasa del Reals joins the RPS Fam with her first NFT [ReggaetonPunksStar Member PREMIUM - Tomasa del Real](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731408417189789697)
+
 * 23 Jan 2022 - Artist Tomasa del Real likes and share our [ReggaetonPunksStar #63 - Tomasa del Real](https://www.instagram.com/p/CZFd-nmscK0/)
 
 * 20 Jan 2022 - Producer CRBRO follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
