@@ -44,7 +44,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p>
      
-* ReggaetonPunksStar #5 - [Becky G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731287470910734337)
+* `[SOLD]` ReggaetonPunksStar #5 - [Becky G](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731287470910734337)
 
 <p float="left" align="center">
 <img src="assets/nfts/5.png"
@@ -84,7 +84,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
      
-* ReggaetonPunksStar #9 - [Nathy Peluso](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
+* `[SOLD]` ReggaetonPunksStar #9 - [Nathy Peluso](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731291868957245441)
 
 <p float="left" align="center">
 <img src="assets/nfts/9.png"
@@ -645,3 +645,5 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 * `[SOLD]` ReggaetonPunksStar #49 - [Daddy Yankee Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731379829887467521)
 
 * `[SOLD]` ReggaetonPunksStar #59 - [Wisin Y Yandel Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731393024027000833)
+
+* `[SOLD]` ReggaetonPunksStar #69 - [Sech Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731409516701417473)
