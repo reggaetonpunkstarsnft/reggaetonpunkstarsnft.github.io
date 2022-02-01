@@ -34,6 +34,8 @@
 
 * 31 Jan 2022 - Reggaeton Punks Stars reaches 1 ETH in OpenSea.
 
+* 29 Jan 2022 - First RPS Reggaeton Band SOLD - [Aventura](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731410616213045249)
+
 * 28 Jan 2022 - New (unknown) RPS NFT type is launched!
 
 * 19 Jan 2022 - [RPS Spotify](https://open.spotify.com/user/31ud2mherrc2yp62n34632ukveqy?si=ddb5227bd8584594&nd=1) official release
