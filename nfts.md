@@ -565,7 +565,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
-* ReggaetonPunksStar #67 - [Luar La L](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731404019143278593)
+* `[SOLD]` ReggaetonPunksStar #67 - [Luar La L](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731404019143278593)
     
 <p float="left" align="center">
 <img src="assets/nfts/67.png"
