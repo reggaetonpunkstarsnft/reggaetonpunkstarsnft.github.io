@@ -24,7 +24,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p>
      
-* ReggaetonPunksStar #3 - [C. Tangana](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731285271887478785)
+* `[SOLD]` ReggaetonPunksStar #3 - [C. Tangana](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731285271887478785)
 
 <p float="left" align="center">
 <img src="assets/nfts/3.png"
@@ -94,7 +94,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
 
-* ReggaetonPunksStar #10 - [Camilo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731292968468873217)
+* `[SOLD]` ReggaetonPunksStar #10 - [Camilo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731292968468873217)
 
 <p float="left" align="center">
 <img src="assets/nfts/10.png"
@@ -274,7 +274,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
- * ReggaetonPunksStar #32 - [Ptazeta](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731323754794450945)
+ * `[SOLD]` ReggaetonPunksStar #32 - [Ptazeta](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731323754794450945)
 
 <p float="left" align="center">
 <img src="assets/nfts/32.png"
