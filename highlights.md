@@ -2,6 +2,10 @@
 
 ## Support
 
+* 07 Feb 2022 - Artists Zion & Lennox like and share our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
+
+* 06 Feb 2022 - Artist Danny Ocean likes and comments our [ReggaetonPunksStar #88 - Danny Ocean](https://www.instagram.com/p/CZpghptsWzS/)
+
 * 26 Jan 2022 - Artist Tomasa del Reals joins the RPS Fam with her first NFT [ReggaetonPunksStar Member PREMIUM - Tomasa del Real](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731408417189789697)
 
 * 23 Jan 2022 - Artist Tomasa del Real likes and share our [ReggaetonPunksStar #63 - Tomasa del Real](https://www.instagram.com/p/CZFd-nmscK0/)
@@ -48,13 +52,13 @@
 
 * 10 Jan 2022 - First PREMIUM Reggaeton Punks Star SOLD - [J Balvin Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731308361631662081)
 
-* 9 Jan 2022 - First Musical ReggaetonPunksStar SOLD - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
+* 09 Jan 2022 - First Musical ReggaetonPunksStar SOLD - [Don Omar Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731319356747939841)
 
-* 8 Jan 2022 - RPS [Virtual Gallery](https://oncyber.io/reggaetonpunkstars) release
+* 08 Jan 2022 - RPS [Virtual Gallery](https://oncyber.io/reggaetonpunkstars) release
 
-* 7 Jan 2022 - Roadmap release ([Phase 1](roadmap.html))
+* 07 Jan 2022 - Roadmap release ([Phase 1](roadmap.html))
 
-* 5 Jan 2022 - First Reggaeton Punks Star SOLD - [ReggaetonPunksStar #29 - Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
+* 05 Jan 2022 - First Reggaeton Punks Star SOLD - [ReggaetonPunksStar #29 - Bad Bunny Xmas](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731320456259567617)
 
 * 19 Dec 2021 - Our designers from JEVART Studios sell their first NFT - [SeriousPussy #20](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731281973352595457)
 
