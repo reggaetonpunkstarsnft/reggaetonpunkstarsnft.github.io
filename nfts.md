@@ -671,7 +671,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/83.png"
      width="150">
      
-<img src="assets/real/83r.png"
+<img src="assets/real/83r.jpg"
      width="150">
  </p> 
  
@@ -681,7 +681,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/84.png"
      width="150">
      
-<img src="assets/real/84r.png"
+<img src="assets/real/84r.jpg"
      width="150">
  </p> 
  
@@ -691,7 +691,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/85.png"
      width="150">
      
-<img src="assets/real/85r.png"
+<img src="assets/real/85r.jpg"
      width="150">
  </p>
  
@@ -701,7 +701,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/86.png"
      width="150">
      
-<img src="assets/real/86r.png"
+<img src="assets/real/86r.jpg"
      width="150">
  </p>
  
@@ -711,7 +711,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/87.png"
      width="150">
      
-<img src="assets/real/87r.png"
+<img src="assets/real/87r.jpg"
      width="150">
  </p>
  
@@ -721,7 +721,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/88.png"
      width="150">
      
-<img src="assets/real/88r.png"
+<img src="assets/real/88r.jpg"
      width="150">
  </p>
  
@@ -731,7 +731,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/89.png"
      width="150">
      
-<img src="assets/real/89r.png"
+<img src="assets/real/89r.jpg"
      width="150">
  </p>
  
@@ -741,7 +741,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 <img src="assets/nfts/90.png"
      width="150">
      
-<img src="assets/real/90r.png"
+<img src="assets/real/90r.jpg"
      width="150">
  </p>
  
@@ -809,7 +809,7 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
  * `[SOLD]` ReggaetonPunksStar #82 - [Rosalía MOTOMAMI Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731433705957228545)
 
 <p float="left" align="center">
-<img src="assets/nfts/RosaliaPREMIUM.gif"
+<img src="assets/nfts/82.gif"
      width="150">
 </p>
 
