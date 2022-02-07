@@ -665,6 +665,85 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
  </p> 
  
+ * ReggaetonPunksStar #83 - [Héctor "El Father"](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731434805468856321)
+    
+<p float="left" align="center">
+<img src="assets/nfts/83.png"
+     width="150">
+     
+<img src="assets/real/83r.png"
+     width="150">
+ </p> 
+ 
+ * `[SOLD]` ReggaetonPunksStar #84 - [Bad Bunny WWE](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731435904980484097)
+    
+<p float="left" align="center">
+<img src="assets/nfts/84.png"
+     width="150">
+     
+<img src="assets/real/84r.png"
+     width="150">
+ </p> 
+ 
+ * ReggaetonPunksStar #85 - [Noriel](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731437004492111873)
+    
+<p float="left" align="center">
+<img src="assets/nfts/85.png"
+     width="150">
+     
+<img src="assets/real/85r.png"
+     width="150">
+ </p>
+ 
+ * ReggaetonPunksStar #86 - [Jay Wheeler](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731438104003739649)
+    
+<p float="left" align="center">
+<img src="assets/nfts/86.png"
+     width="150">
+     
+<img src="assets/real/86r.png"
+     width="150">
+ </p>
+ 
+ * `[SOLD]` ReggaetonPunksStar #87 - [Zion & Lennox](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731439203515367425)
+    
+<p float="left" align="center">
+<img src="assets/nfts/87.png"
+     width="150">
+     
+<img src="assets/real/87r.png"
+     width="150">
+ </p>
+ 
+ * `[SOLD]` ReggaetonPunksStar #88 - [Danny Ocean](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731440303026995201)
+    
+<p float="left" align="center">
+<img src="assets/nfts/88.png"
+     width="150">
+     
+<img src="assets/real/88r.png"
+     width="150">
+ </p>
+ 
+ * `[SOLD]` ReggaetonPunksStar #89 - [Paulo Londra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731441402538622977)
+    
+<p float="left" align="center">
+<img src="assets/nfts/89.png"
+     width="150">
+     
+<img src="assets/real/89r.png"
+     width="150">
+ </p>
+ 
+  * ReggaetonPunksStar #90 - [Omar Montes](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731442502050250753)
+    
+<p float="left" align="center">
+<img src="assets/nfts/90.png"
+     width="150">
+     
+<img src="assets/real/90r.png"
+     width="150">
+ </p>
  
 ## Our Special NFT collection
      
@@ -696,6 +775,13 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
 </p>
 
+ * `[SOLD]` ReggaetonPunksStar #80 - [Ñejo Zombie Pride Day](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731423810352578561)
+
+<p float="left" align="center">
+<img src="assets/nfts/80.png"
+     width="150">
+</p>
+
 
 ## Our Premium NFT collection
 
@@ -720,6 +806,13 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
 </p>
 
+ * `[SOLD]` ReggaetonPunksStar #82 - [Rosalía MOTOMAMI Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731433705957228545)
+
+<p float="left" align="center">
+<img src="assets/nfts/RosaliaPREMIUM.gif"
+     width="150">
+</p>
+
 
 ## RPS reggaeton MUSICAL NFT collection (audio)
 
@@ -734,6 +827,8 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 * `[SOLD]` ReggaetonPunksStar #59 - [Wisin Y Yandel Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731393024027000833)
 
 * `[SOLD]` ReggaetonPunksStar #69 - [Sech Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731409516701417473)
+
+* `[SOLD]` ReggaetonPunksStar #81 - [Natti Natasha Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731424909864206337)
 
 
 ## RPS reggaeton BAND collection
