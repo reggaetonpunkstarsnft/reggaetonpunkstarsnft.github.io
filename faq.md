@@ -8,7 +8,7 @@ RPS is a collection of 1000 unique and handmade reggaeton pixel art NFTs living 
 
 “Non-fungible” more or less means that it’s unique and can’t be replaced with something else. NFTs can really be anything digital (such as drawings, music, ...), but a lot of the current excitement is around using the tech to sell digital art and building community.
 
-At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like bitcoin or dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently from, say, an ETH coin. <br>
+At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like bitcoin or dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently from, say, and ETH coin. <br>
 
 * <b> What's the price of a Reggaeton Punks Stars NFT? </b>
 
