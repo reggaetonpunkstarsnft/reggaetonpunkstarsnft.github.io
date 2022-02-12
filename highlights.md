@@ -2,7 +2,11 @@
 
 ## Support
 
-* 07 Feb 2022 - Artists Zion & Lennox like and share our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
+* 09 Feb 2022 - Artist Lennox likes and share our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
+
+* 08 Feb 2022 - Artist Zion likes our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
+
+* 07 Feb 2022 - Zion & Lennox IG account likes and shares our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
 
 * 06 Feb 2022 - Artist Danny Ocean likes and comments our [ReggaetonPunksStar #88 - Danny Ocean](https://www.instagram.com/p/CZpghptsWzS/)
 
