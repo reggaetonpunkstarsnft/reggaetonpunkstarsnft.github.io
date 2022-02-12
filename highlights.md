@@ -36,6 +36,12 @@
 
 ## Project
 
+* 12 Feb 2022 - [RPS Discord](https://discord.gg/qyehdJS4pm) launched
+
+* 07 Feb 2022 - First RPS Instagram [filter](https://www.instagram.com/ar/970022013930503/) published
+
+* 01 Feb 2022 - [RPS Metaverse Spaces](https://discord.gg/ZBcwWAtDPY) are created
+
 * 31 Jan 2022 - Reggaeton Punks Stars reaches 1 ETH in OpenSea.
 
 * 29 Jan 2022 - First RPS Reggaeton Band SOLD - [Aventura](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731410616213045249)
