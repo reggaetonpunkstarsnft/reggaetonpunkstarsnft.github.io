@@ -813,6 +813,13 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
      width="150">
 </p>
 
+ * `[SOLD]` ReggaetonPunksStar #92 - [Bad Bunny WWE Premium](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731449099120017409)
+
+<p float="left" align="center">
+<img src="assets/nfts/92.gif"
+     width="150">
+</p>
+
 
 ## RPS reggaeton MUSICAL NFT collection (audio)
 
@@ -829,6 +836,8 @@ Find our Reggaeton Punks Stars in [Opensea](https://opensea.io/collection/reggae
 * `[SOLD]` ReggaetonPunksStar #69 - [Sech Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731409516701417473)
 
 * `[SOLD]` ReggaetonPunksStar #81 - [Natti Natasha Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731424909864206337)
+
+* ReggaetonPunksStar #91 - [Nicky Jam Orchestra](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731445800585134081)
 
 
 ## RPS reggaeton BAND collection
