@@ -31,7 +31,7 @@ Buying NFTs may seem confusing at first, but once you learn the basics, it gets 
      width="500">
  </p>
 
--7. Now you need to configure your Wallet to use it in the Polygon network***. Click "Ethereum Mainnet" the right upper corner and then click "Add Network".
+-7. Now you need to configure your Wallet to use it in the Polygon network***. Click "Ethereum Mainnet" (right upper corner) and then click "Add Network".
 
 -8. Fill the gaps with the following info and click "Save".
 
@@ -46,7 +46,7 @@ Buying NFTs may seem confusing at first, but once you learn the basics, it gets 
      width="500">
  </p>
 
--10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon in the upper right corner. Then, click "MetaMask" and accept the OpenSea connection with MetaMask. <br><br>
+-10. Go back to [OpenSea](https://opensea.io/collection/reggaetonpunkstars), click the wallet icon (rigth upper corner). Then, click "MetaMask" and accept the OpenSea connection with MetaMask. <br><br>
 
 <p float="left" align="center">
 <img src="assets/howtobuy/F.jpg"
