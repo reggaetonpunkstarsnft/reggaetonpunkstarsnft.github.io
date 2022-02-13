@@ -14,8 +14,6 @@
 
 * 23 Jan 2022 - Artist Tomasa del Real likes and share our [ReggaetonPunksStar #63 - Tomasa del Real](https://www.instagram.com/p/CZFd-nmscK0/)
 
-* 20 Jan 2022 - RPS [Instagram profile](https://www.instagram.com/reggaetonpunkstars/) reaches 1K followers
-
 * 20 Jan 2022 - Producer CRBRO follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
 
 * 16 Jan 2022 - Artist Ms Nina likes our [ReggaetonPunksStar #57 - Ms Nina](https://www.instagram.com/p/CYzxOLEMxL6/)
@@ -53,6 +51,8 @@
 * 29 Jan 2022 - First RPS Reggaeton Band SOLD - [Aventura](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731410616213045249)
 
 * 28 Jan 2022 - New (unknown) RPS NFT type is launched!
+
+* 20 Jan 2022 - [RPS Instagram](https://www.instagram.com/reggaetonpunkstars/) reaches 1K followers
 
 * 19 Jan 2022 - [RPS Spotify](https://open.spotify.com/user/31ud2mherrc2yp62n34632ukveqy?si=ddb5227bd8584594&nd=1) official release
 
