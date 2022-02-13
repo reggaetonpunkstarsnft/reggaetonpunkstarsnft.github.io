@@ -14,6 +14,8 @@
 
 * 23 Jan 2022 - Artist Tomasa del Real likes and share our [ReggaetonPunksStar #63 - Tomasa del Real](https://www.instagram.com/p/CZFd-nmscK0/)
 
+* 20 Jan 2022 - RPS [Instagram profile](https://www.instagram.com/reggaetonpunkstars/) reaches 1K followers
+
 * 20 Jan 2022 - Producer CRBRO follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/)
 
 * 16 Jan 2022 - Artist Ms Nina likes our [ReggaetonPunksStar #57 - Ms Nina](https://www.instagram.com/p/CYzxOLEMxL6/)
