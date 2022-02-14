@@ -2,7 +2,7 @@
 
 ## Support
 
-* 14 Feb 2022 - ["Kiss The Chief"](https://opensea.io/kissthechief) a.k.a. Jon the Producer & Mau y Ricky purchases their ReggaetonPunksStar #97 - Mau y Ricky
+* 14 Feb 2022 - ["Kiss The Chief"](https://opensea.io/kissthechief) a.k.a. Jon the Producer & Mau y Ricky purchase their ReggaetonPunksStar #97 - Mau y Ricky
 
 * 14 Feb 2022 - "Kiss The Chief" a.k.a. Jon the Producer & Mau y Ricky join the @RPS Fam
 
