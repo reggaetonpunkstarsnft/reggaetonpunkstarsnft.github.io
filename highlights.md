@@ -2,6 +2,12 @@
 
 ## Support
 
+* 14 Feb 2022 - ["Kiss The Chief"](https://opensea.io/kissthechief) a.k.a. Jon the Producer & Mau y Ricky purchases their ReggaetonPunksStar #97 - Mau y Ricky
+
+* 14 Feb 2022 - "Kiss The Chief" a.k.a. Jon the Producer & Mau y Ricky join the @RPS Fam
+
+* 14 Feb 2022 - Mau y Ricky and Jon the Producer like their [ReggaetonPunksStar #97 - Mau y Ricky](https://www.instagram.com/p/CZ7h7bqMcpZ/)
+
 * 09 Feb 2022 - Artist Lennox likes and share our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
 
 * 08 Feb 2022 - Artist Zion likes our [ReggaetonPunksStar #87 - Zion & Lennox](https://www.instagram.com/p/CZpgddoswFs/)
