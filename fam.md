@@ -38,11 +38,9 @@ Follow [Reggaeton Punks Stars](https://open.spotify.com/user/31ud2mherrc2yp62n34
 
 ## Discord
 
-* Join our discord with this [INVITE LINK](https://discord.gg/qyehdJS4pm)
+* Join our discord using this [INVITE LINK](https://discord.gg/qyehdJS4pm)
 * Talk, chat, hang out, join our music rooms, attend events and stay close with your RPS Fam!
 * Private channels for @RPS Fam and @RPS Fam Premium members.
-
-[SOON in Phase 2]
 
 
 ## Metaverse 2.0
