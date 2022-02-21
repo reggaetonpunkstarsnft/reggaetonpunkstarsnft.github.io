@@ -2,6 +2,12 @@
 
 ## Support
 
+* 20 Feb 2022 - Kevin Roldan likes [ReggaetonPunksStar #108 - Kevin Roldán](https://www.instagram.com/p/CaNl1YQMSV7/ )
+
+* 19 Feb 2022 - Vico C shares [ReggaetonPunksStar #93 - Vico C](https://twitter.com/reggaeton_nfts/status/1492955553450147841?s=20&t=RwrQdrcxW6jYXlakCnAhxg)
+
+* 19 Feb 2022 - Vico C changes his Twitter profile picture to [ReggaetonPunksStar #93 - Vico C](https://twitter.com/VicoC_/status/1495070060314079237?s=20&t=RwrQdrcxW6jYXlakCnAhxg)
+
 * 14 Feb 2022 - ["Kiss The Chief"](https://opensea.io/kissthechief) a.k.a. Jon the Producer & Mau y Ricky purchase their ReggaetonPunksStar #97 - Mau y Ricky
 
 * 14 Feb 2022 - "Kiss The Chief" a.k.a. Jon the Producer & Mau y Ricky join the @RPS Fam
