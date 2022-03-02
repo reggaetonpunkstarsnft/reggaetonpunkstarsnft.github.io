@@ -2,6 +2,18 @@
 
 ## Support
 
+* 19 Feb 2022 - Nio García changes his Twitter profile picture to [ReggaetonPunksStar #117 - Nio García](https://twitter.com/NioGarcia)
+
+* 01 Mar 2022 - Nio García purchases their [ReggaetonPunksStar #117 - Nio García](https://opensea.io/niogarcia) and joins the RPS Fam
+
+* 28 Feb 2022 - Nio follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/), likes and comments his [ReggaetonPunksStar #117 - Nio García](https://www.instagram.com/p/Cafk49hgeWr/)
+
+* 28 Feb 2022 - Brytiago likes his [ReggaetonPunksStar #120 - Brytiago](https://twitter.com/reggaeton_nfts/status/1498035160398319619?s=20&t=-_9hLFXSmaWfmsA5VKzgjw)
+
+* 28 Feb 2022 - Baby Rasta shares [ReggaetonPunksStar #118 - Baby Rasta & Gringo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731482084468850689)
+
+* 27 Feb 2022 - Gringo follows our [Instagram profile](https://www.instagram.com/reggaetonpunkstars/) and shares [ReggaetonPunksStar #118 - Baby Rasta & Gringo](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731482084468850689)
+
 * 20 Feb 2022 - Kevin Roldan likes [ReggaetonPunksStar #108 - Kevin Roldán](https://www.instagram.com/p/CaNl1YQMSV7/ )
 
 * 19 Feb 2022 - Vico C shares [ReggaetonPunksStar #93 - Vico C](https://twitter.com/reggaeton_nfts/status/1492955553450147841?s=20&t=RwrQdrcxW6jYXlakCnAhxg)
@@ -10,7 +22,7 @@
 
 * 14 Feb 2022 - ["Kiss The Chief"](https://opensea.io/kissthechief) a.k.a. Jon the Producer & Mau y Ricky purchase their ReggaetonPunksStar #97 - Mau y Ricky
 
-* 14 Feb 2022 - "Kiss The Chief" a.k.a. Jon the Producer & Mau y Ricky join the @RPS Fam
+* 14 Feb 2022 - "Kiss The Chief" a.k.a. Jon the Producer & Mau y Ricky join the RPS Fam
 
 * 14 Feb 2022 - Mau y Ricky and Jon the Producer like their [ReggaetonPunksStar #97 - Mau y Ricky](https://www.instagram.com/p/CZ7h7bqMcpZ/)
 
@@ -51,6 +63,10 @@
 
 
 ## Project
+
+* 01 Mar 2022 - Reggaeton Punks Stars supports 'Hospitallers' in Ukraine via SeedsGives, sending the ETH collected with Reggaeton Punks Star #113 - [Residente Ukraine Support](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731476586910711809)  
+
+* 25 Feb 2022 - First NFT Charity Auction launched with Reggaeton Punks Star #113 - [Residente Ukraine Support](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/97025343769721205522030454525747954424969773561833179651683731476586910711809)
 
 * 12 Feb 2022 - [RPS Discord](https://discord.gg/qyehdJS4pm) launched
 
