@@ -2,7 +2,7 @@
 
 ## Support
 
-* 19 Feb 2022 - Nio García changes his Twitter profile picture to [ReggaetonPunksStar #117 - Nio García](https://twitter.com/NioGarcia)
+* 01 Feb 2022 - Nio García changes his Twitter profile picture to [ReggaetonPunksStar #117 - Nio García](https://twitter.com/NioGarcia)
 
 * 01 Mar 2022 - Nio García purchases their [ReggaetonPunksStar #117 - Nio García](https://opensea.io/niogarcia) and joins the RPS Fam
 
