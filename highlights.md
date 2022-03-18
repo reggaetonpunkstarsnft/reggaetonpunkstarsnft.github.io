@@ -2,6 +2,20 @@
 
 ## Support
 
+* 18 Mar 2022 - Lorduy (Piso 21) likes and comments his [ReggaetonPunksStar #142 - Piso 21](https://www.instagram.com/p/CbQDaTgM8Oj/)
+
+* 14 Mar 2022 - Cali Y El Dandee share their [ReggaetonPunksStar #135 - Cali Y El Dandee](https://www.instagram.com/p/CbDnt_1gO_z/)
+
+* 13 Mar 2022 - De La Ghetto likes his ReggaetonPunksStar #134 - De La Ghetto IG story
+
+* 07 Mar 2022 - Baby Ranks likes his [ReggaetonPunksStar #130 - Baby Ranks](https://www.instagram.com/p/Caxokt3gPFJ/)
+
+* 08 Mar 2022 - Jowell follows our [IG account](https://www.instagram.com/reggaetonpunkstars/)
+
+* 08 Mar 2022 - Jowell shares his [Reggaeton Punks Star #125 - Jowell](https://twitter.com/jowell1/status/1501573219622559749?s=20&t=cwB_DLO9QCmSgcY1r-bqwg)
+
+* 08 Mar 2022 - Nio Garcia shares his [ReggaetonPunksStar #117 - Nio García](https://twitter.com/NioGarcia/status/1500910703703740423?s=20&t=cwB_DLO9QCmSgcY1r-bqwg)
+
 * 01 Feb 2022 - Nio García changes his Twitter profile picture to [ReggaetonPunksStar #117 - Nio García](https://twitter.com/NioGarcia)
 
 * 01 Mar 2022 - Nio García purchases their [ReggaetonPunksStar #117 - Nio García](https://opensea.io/niogarcia) and joins the RPS Fam
@@ -63,6 +77,8 @@
 
 
 ## Project
+
+* 15 Mar 2022- Reggaeton Punks Stars reaches [50 owners in Opensea](https://opensea.io/collection/reggaetonpunkstars)!
 
 * 01 Mar 2022 - Reggaeton Punks Stars supports 'Hospitallers' in Ukraine with Reggaeton Punks Star #113 - [Residente Ukraine Support](https://www.instagram.com/p/CahUAgLg-mD/)  
 
