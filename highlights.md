@@ -2,6 +2,8 @@
 
 ## Support
 
+* 19 Mar 2022 - Casper Magico likes his [ReggaetonPunksStar #140 - Casper Magico](https://twitter.com/reggaeton_nfts/status/1503125764488810505?s=20&t=dCtS4K7hqy4SBXvWIQUS7A)
+
 * 18 Mar 2022 - Lorduy (Piso 21) likes and comments his [ReggaetonPunksStar #142 - Piso 21](https://www.instagram.com/p/CbQDaTgM8Oj/)
 
 * 14 Mar 2022 - Cali Y El Dandee share their [ReggaetonPunksStar #135 - Cali Y El Dandee](https://www.instagram.com/p/CbDnt_1gO_z/)
@@ -77,6 +79,8 @@
 
 
 ## Project
+
+* 20 Mar 2022 - Reggaeton Punks Stars finish Phase 2 with a volume traded of 2 ETH
 
 * 15 Mar 2022- Reggaeton Punks Stars reaches [50 owners in Opensea](https://opensea.io/collection/reggaetonpunkstars)!
 
